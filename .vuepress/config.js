@@ -1,17 +1,22 @@
 module.exports = {
-    title: 'KCJ OFFLINE GAMES',
-    description: 'A curated selection of RTP offlines games',
-    // locales: {
-    //     './': {lang: 'en-US'},
-    //     './fr/': {lang: 'fr'}
-    // },
+    title: 'KCJ UNPLUGGED ACTIVITIES',
+    description: 'A curated selection of Right to Play unplugged activities',
+    locales: {
+        './': {lang: 'en'},
+        './fr/': {lang: 'fr'}
+    },
     themeConfig: {
         nav: [
-            {text: 'Page-1', link: 'PAGE-1.md'}
+            {text: 'Home', link: './'},
+            {text: 'Problem Decomposition', link: 'A-Problem-Decomposition.md'},
+            {text: 'Data Information', link: 'B-Data-Information.md'},
+            {text: 'Algorithms', link: 'C-Algorithms.md'},
         ],
-        sidebar :[
+        sidebar: [
             './',
-            './PAGE-1'
+            ['./A-Problem-Decomposition','Problem Decomposition'],
+            ['./B-Data-Information','Data Information'],
+            ['./C-Algorithms','Algorithms']
         ]
     }
 }
