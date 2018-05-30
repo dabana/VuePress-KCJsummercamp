@@ -232,33 +232,144 @@ No. of Players: 3 or more
 
 1. Form teams of 2-4 (make sure each team has a strong writer who can write for the team).
 2. Invite each team to take 2 pages of flipchart paper, markers and 5-6 sticks.
-2. Explain and demonstrate that:
+3. Explain and demonstrate that:
   * Each team will work together to create a design with their sticks and draw it on a piece of scrap paper
   * They should not show their design to the other teams.
+4. Pair each team with another team and name them Team A and Team B.
+5. Explain and demonstrate that:
+  * Teams should not show their designs to one another.
+  * Team A will clearly instruct Team B to create their design.
+  * Team A cannot point or demonstrate when they give instructions. They can only use words.
+  * Team B might not follow the instructions correctly. If necessary, Team A can discuss ideas and try a new instruction.
+  * As they give instructions, a player from Team A will write down the instructions that work.
+  * When the design is complete, it is Team B’s turn to give instructions and write down the instructions.
+6. Explain that each team has created instructions. They will give their written instructions to a new team 
+(Team C) to follow.
+7. Invite teams to see if Team C could create the design.
 
 ::: tip Questions
-Was it easy or challenging to create an algorithm for your handshake?
+Was it easy or challenging to give instructions?
 
-Did your algorithm work the way you expected?
+􏰂What were some of the challenges?
 
-􏰂What was challenging about teaching your handshake to others?
+􏰂If you play this game again, what will you do to make sure your instructions help players to create the correct design?
 
-􏰂How did you deal with these challenges?
+In real life, what are some instructions that say the exact measurements to use?
+
+When we create instructions, what do we need to check for to make sure they lead to the right result?
 :::
 
 ```diff
 + Exclellent game to show the fundamental concept of what an Algorithm is
-+ Addaptable it for kids
-- How Introduce MicoBits?
+- Addaptable it for kids...
++ Easy to adapt with MicoBits with PixelArt Architecture
 ```
 
 ## 6. The Dragon's Flow
 
-> TD
+To show an algorithm in a flowchart.
+
+::: tip Rules
+Goal: To guess a sequence of actions and put it in a flowchart.
+
+Materials: Paper, Markers/pens/pencils, Game Cards
+
+No. of Players: 4 or more
+:::
+
+> What is the first thing that you do in the morning? Second? Third? What is this type of chart called? Flowchart
+
+### How to Play
+
+1. Mark a start and end line approximately 10 metres apart.
+2. Form teams of 4-6 (make sure each team has a strong writer who can write for the team).
+3. Invite one player from each team to volunteer to be the Dragon.
+4. Explain and demonstrate that:
+  * They are explorers looking for treasure.
+  * A dragon guards the treasure. The only way to pass the dragon is to do 4 actions:
+    * Offer to shake its hand.
+    * Offer the dragon a fish.
+    * Spin around 3 times.
+    * Say, “We are here to pass the gate.”
+  * Nobody knows the correct order of the actions except the dragon.
+  * The Dragon from each team will be behind the end line and have a card that
+  * The teams must guess the order and go to the Dragon to do the actions.
+  * You will give each team a movement to use to move towards the end line 
+  (for example, hop on one foot, crawl, move backwards etc.).
+  * When they are one arms-length away from the Dragon, they will do the 4 actions.
+  * If the order is incorrect, the Dragon will pretend to breathe fire and chase the team back to the start line to tag them.
+  * If a player is tagged, they will join the Dragon at the end line.
+  * Teams can try many times until they get the correct order.
+  * If it is correct, the Dragon will say, “You may pass.”
+5. Ask teams who are finished to write the actions in order in 2 ways: (1) a list of steps and (2) a flowchart.
+6. If there is time, invite teams who finish early to choose a new Dragon to play again.
+7. Ask the new Dragon to secretly change the order of the steps or to use a new Game Card.
+says the correct order (see example cards below).
+8. The game ends at your discretion.
+
+::: tip Questions
+What were the two ways that you wrote the order of the actions?
+
+Did you prefer the list of steps or the flowchart? Why? 􏰂 
+
+How is the flowchart helpful?
+
+Have you seen a flowchart before? What was it about?
+:::
+
+```diff
++ FUN game to show the fundamental concept of what an Algorithm / FlowChart
++ Addaptable it to kids...
++ Easy to adapt with MicoBits with Order with Letters or Numbers 
+```
 
 ## 7. Pep Rally
 
-> PR
+To find and fix mistakes in algorithms; to have a positive attitude about making mistakes.
+
+::: tip Rules
+Goal: To find and fix mistakes in an algorithm.
+
+Materials: Paper, Markers/pens/pencils
+
+No. of Players: 6 or more
+:::
+
+> How do you feel when you make a mistake? 􏰂 How can we learn from our mistakes?
+
+### How to Play
+
+1. Form teams of 6 (make sure each group has a strong writer who can write for the team).
+2. Explain and demonstrate that:
+  * Building an algorithm takes time and many different tries.
+  * It is normal to make mistakes.
+  * They will practice finding and fixing mistakes.
+  * Each team will create a short cheer that the group/class can do when they need a break from a hard task. The cheer should be active.
+  * Each team will take up to 10 minutes to write out an algorithm (step-by-step instructions) to teach the cheer to another team.
+  * As teams create their algorithms, they can try to follow the instructions themselves to make sure they are clear and correct.
+3. When teams finish their algorithms, pair each team with another team.
+4. Explain and demonstrate that:
+  * Each team will read their algorithm to the other team one line at a time.
+  * As they read each line, the other team will follow the instructions.
+  * The team will mark the mistakes that they find in the instructions 
+  (for example, something that is not correct or not clear enough). The teams will work together to fix them.
+5. Give teams 15 minutes to test and fix their algorithms.
+6. Gather everyone together.
+7. Explain that the group will celebrate what they have done today by doing the cheers as loud as they can. Invite teams to use their algorithms to lead their cheers with the wider group. (If there is not enough time, explain that when you say “Go!” all teams will do their own cheers at the same time.)
+
+::: tip Questions
+What was a time that you learned from a mistake? 􏰂 
+
+How did that change you or help you grow?
+
+What can you say to encourage a friend who makes a mistake?
+:::
+
+```diff
++ FUN game to show the fundamental concept of what an Algorithm
++ Addaptable it to kids...
++ Easy to adapt with MicoBits and pixel-art shapes
+```
 
 # 8. More advanced:
 
