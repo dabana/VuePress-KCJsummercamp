@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-yarn",
+  "name": "vuepress-projects",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -7,9 +7,10 @@
     "doc": "docs"
   },
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
-  },
+    },
   "author": "BFS",
   "license": "ISC"
 }
