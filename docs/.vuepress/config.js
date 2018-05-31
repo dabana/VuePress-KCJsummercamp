@@ -8,15 +8,15 @@ module.exports = {
     themeConfig: {
         nav: [
             {text: 'Home', link: './'},
-            {text: 'Problem Decomposition', link: 'A-Problem-Decomposition.md'},
-            {text: 'Data Information', link: 'B-Data-Information.md'},
-            {text: 'Algorithms', link: 'C-Algorithms.md'},
+            {text: 'Problem Decomposition', link: 'a-problem-decomposition.md'},
+            {text: 'Data Information', link: 'b-data-information.md'},
+            {text: 'Algorithms', link: 'c-algorithms.md'},
         ],
         sidebar: [
             './',
-            ['./A-Problem-Decomposition','Problem Decomposition'],
-            ['./B-Data-Information','Data Information'],
-            ['./C-Algorithms','Algorithms']
+            ['./a-problem-decomposition','Problem Decomposition'],
+            ['./b-data-information','Data Information'],
+            ['./c-algorithms','Algorithms']
         ]
     }
 }
