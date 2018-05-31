@@ -1,9 +1,13 @@
 module.exports = {
-    title: 'KCJ UNPLUGGED ACTIVITIES',
-    description: 'A curated selection of Right to Play unplugged activities',
+    title: 'KCJ UNPLUGGED',
+    description: 'A curated selection of RTP unplugged activities',
     locales: {
-        './': {lang: 'en'},
-        './fr/': {lang: 'fr'}
+        '/': { 
+            lang: 'english'
+        },
+        '/fr/': {
+            lang: 'français'
+        }
     },
     themeConfig: {
         nav: [
