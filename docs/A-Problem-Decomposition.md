@@ -5,7 +5,7 @@
 ## 1.Hero's Web
 To know that life goals can be broken into smaller parts.
 
-::: tip Rules
+::: warning Rules
 Goal: To construct and deconstruct a web by Ball of string/yarn telling a story.
 
 Materials: Ball of string/yarn
@@ -18,7 +18,7 @@ No. of Players: 4 or more
 3. Pass the ball-untangle chors. Each person tells a part of the story and remembers
 4. We go backwards to the beginning
 
-::: tip Questions
+::: warning Questions
 When we untangled the web, was it easy to remember the different steps our hero took?
 
 Who are some real-life heroes who took many steps to reach their achievements?
@@ -36,7 +36,7 @@ In your own life, what is a goal that you can break into smaller parts?
 
 To know that life goals can be broken into smaller parts.
 
-::: tip Rules
+::: warning Rules
 Goal: To create three movements for a triathlon.
 
 Materials: Chalk (or anything to4 or more mark lines on the ground)
@@ -53,7 +53,7 @@ No. of Players: 4 or more
 7. When finishes “biking”, they will tag the first player who will begin “running”.
 8. The game ends when all players have completed the “running” movement.
 
-::: tip Questions
+::: warning Questions
 How did you divide your task into smaller parts when you created your triathlon?
 
 How did breaking your task apart in this way help you?
@@ -71,7 +71,7 @@ hat are some other tasks that people break into smaller parts?
 
 To know that life goals can be broken into smaller parts.
 
-::: tip Rules
+::: warning Rules
 Goal: To complete a five-part game.
 
 Materials: Game Cards – 1 set per team, Chalk (or anything to mark lines on the ground),
@@ -94,7 +94,7 @@ No. of Players: 4 or more
 7. When finishes “biking”, they will tag the first player who will begin “running”.
 8. The game ends when all players have completed the “running” movement.
 
-::: tip Questions
+::: warning Questions
 Each team now has 5 Game Cards. The 5 cards show 5 steps of a process, for example the Writing Process or the Scientific Method.
 
 Each team will try to put the cards in order.
@@ -120,7 +120,7 @@ Invite teams to say what their process is and present the cards in order.
 
 To break a problem into smaller parts.
 
-::: tip Rules
+::: warning Rules
 Goal: To find and protect treasures.
 
 Materials: Hula hoop (or other space where each team can store objects). Armbands – 3-4. Any objects that are
@@ -145,7 +145,7 @@ No. of Players: 6 or more
 4. Choose a Treasure Chest (hula hoop) and discuss the different tasks that they need to do and how to divide the tasks.
 5. The game ends at your discretion.
 
-::: tip Questions
+::: warning Questions
 How did your team divide the tasks?
 
 How did this make it easier to find Treasures?
@@ -163,7 +163,7 @@ In the game we divided a team task. Did you ever divide a task that you worked o
 
 To break a task into smaller parts.
 
-::: tip Rules
+::: warning Rules
 Goal: To work as a team to build an unseen structure.
 
 Materials: Any objects or materials to build a structure – 1 set per team, Large sheet or divider
@@ -183,7 +183,7 @@ No. of Players: 4 or more
 6. Invite all the Scouts to take their second and third looks at the structure together.
 7. When teams finish their structures, remove the sheet and invite teams to compare the structures.
 
-::: tip Questions
+::: warning Questions
 How did you share and divide the work on your team?
 
 How did your team make the best use of the 3 chances to look at the structure?
@@ -202,7 +202,7 @@ What strategies did you use?
 
 To break a large problem into smaller parts.
 
-::: tip Rules
+::: warning Rules
 Goal: To create a game strategy.
 
 Materials: Ball, Cones – 2 per team, Armbands (or anything to mark 2 teams) – for half of the players
@@ -221,7 +221,7 @@ No. of Players: 6 or more
   * What is not working?
   * What are the different actions that you need to take to reach your goal?
 
-::: tip Questions
+::: warning Questions
 What were the different actions in your strategy?
 
 hen you played, did you discover any important actions that were not in your strategy?
@@ -240,7 +240,7 @@ Why is it helpful to break a large problem (such as a goal) into smaller parts?
 
 To break a large problem into smaller parts.
 
-::: tip Rules
+::: warning Rules
 Goal: To capture the other team’s flag and cross the centre line before being tagged.
 
 Materials: Flags – 2, Chalk, rope or sticks (anything to mark the centre line and 2 Home Bases), Armbands or team marker – 1 each for half the players
@@ -269,7 +269,7 @@ No. of Players: 6 or more
   * What is not working?
   * What are the different actions that you need to take to reach your goal?
 
-::: tip Rules
+::: warning Rules
 What did your team talk about when you created your strategy?
 
 How did you work together to put the strategy into action?
@@ -288,7 +288,7 @@ Why is it helpful to break a large problem (such as a goal) into smaller parts?
 
 To break smaller parts into even smaller parts.
 
-::: tip Rules
+::: warning Rules
 Goal: To get materials to build a tower.
 
 Materials: Building material: Scrap paper, cards or anything to build a tower, Tape, Flipchart paper, Markers,Timer or timepiece
@@ -315,7 +315,7 @@ No. of Players: 6 or more
   * At the end of the game, you will see which tower is the most creative.
 8. Invite teams to present their towers to the group.
 
-::: tip Questions
+::: warning Questions
 Did you know you could break the tasks of your project into so many levels?
 
 How is doing a large project similar to building a tower?

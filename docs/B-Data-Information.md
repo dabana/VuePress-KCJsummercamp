@@ -6,7 +6,7 @@
 ## 1.Art Café
 To represent the same data in different ways on a computer.
 
-::: tip Rules
+::: warning Rules
 Goal: To communicate an idea creatively using your body or sounds.
 
 Materials: Game Cards, Chalk/cones (or anything to mark boundaries)
@@ -37,7 +37,7 @@ No. of Players: 6 or more
 5. After each round, mix up the cards and return them to the circle.
 6. The game ends at your discretion.
 
-::: tip Questions
+::: warning Questions
 Which role was the easiest/difficult for you?
 
 We expressed the same idea with actions, words, pictures and sounds. 
@@ -57,7 +57,7 @@ In your culture, what are different ways people have shared messages without wor
 
 To represent the same information in different ways.
 
-::: tip Rules
+::: warning Rules
 Goal: To remember one another’s nicknames in 􏰂 Balloons or soft balls order to keep the ball in the air.
 
 Materials: Balloons or soft balls
@@ -85,7 +85,7 @@ No. of Players: 6 or more
 9. The game ends at your discretion.
 
 
-::: tip Questions
+::: warning Questions
 Did you like using your nickname to represent yourself?
 What are some other ways you can represent yourself?
 When would you decide to use words to share your idea? Pictures? Symbols?
@@ -102,7 +102,7 @@ Can you guess what symbols a computer uses to represent data inside itself?
 
 To represent the same information in different ways.
 
-::: tip Rules
+::: warning Rules
 Goal: To find patterns.
 
 Materials: Game Cards – 1 set per team
@@ -129,7 +129,7 @@ No. of Players: 6 or more
 9. The game ends at your discretion.
 
 
-::: tip Questions
+::: warning Questions
 When your teammates were acting, what did you think about to guess the cards?
 
 When you had all your cards, what did you think about to find the patterns?
@@ -153,7 +153,7 @@ Can you think of any patterns that help you know how things work?
 
 To look for patterns to understand how things work.
 
-::: tip Rules
+::: warning Rules
 Goal: To figure out what tools are needed for a secret mission.
 
 Materials: Flipchart paper, Markers, Any objects that are already in the play area (no new materials needed)
@@ -177,7 +177,7 @@ No. of Players: Any
   * Players who think of an accepted object can help other players.
 3. The game ends when most players have figured out the pattern.
 
-::: tip Questions
+::: warning Questions
 How did you figure it out?
 
 When you don’t know what to do, do you ever copy what other people are doing?
@@ -195,7 +195,7 @@ If yes, what are some patterns that you have copied?
 
 To use patterns to form a conclusion.
 
-::: tip Rules
+::: warning Rules
 Goal: To form groups of the number that is called out and compare drawings.
 
 Materials: A4/flipchart paper, Pens/pencils
@@ -220,7 +220,7 @@ No. of Players: 8 or more
 9. Play the game. Start with 1-2 simple themes and then move to more open-ended themes (see examples below).
 10. The game ends at your discretion.
 
-::: tip Questions
+::: warning Questions
 Was it difficult to find patterns for any of the themes?
 
 What did the patterns tell you about the themes?    
@@ -240,7 +240,7 @@ Do these patterns tell you anything about the way things are or how things work?
 
 To use patterns and similarities to understand something.
 
-::: tip Rules
+::: warning Rules
 Goal: To find patterns and similarities in your list of strengths.
 
 Materials: A4 paper, 1 per player, Pencils, 1 per player, Tape
@@ -266,7 +266,7 @@ No. of Players: 5 or more
 4. Invite players to look at their sheets and find 1-2 common ideas.
 5. Explain that a pattern is something that repeats. If you have a common idea that repeats in all/most of the answers, you have a pattern. We can use patterns to help us know what someone or something is usually like.
 
-::: tip Questions
+::: warning Questions
 How did it feel to read your sheet?
 
 Did you learn anything new about yourself today?  
@@ -286,7 +286,7 @@ In your life, how do you usually know if someone else is trustworthy (or respons
 
 To use charts to make comparisons and find similarities.
 
-::: tip Rules
+::: warning Rules
 Goal: To compare chores and show the results on a chart.
 
 Materials: Pens/pencils, Pieces of paper, Basin or large container, Blindfolds, Flipchart paper 􏰂 Markers
@@ -325,7 +325,7 @@ No. of Players: 5 or more
 9. As teams work, move around and ask prompting questions if they have difficulty finding similarities or creating a chart.
 10. Invite volunteers to share their findings with the wider group.
 
-::: tip Questions
+::: warning Questions
 hat did your chart help you do? 
 
 What similarities did you find? 
@@ -345,7 +345,7 @@ In your life, what are some things that you need to compare? Can a chart help yo
 
 To organize data in a way that helps us find similarities.
 
-::: tip Rules
+::: warning Rules
 Goal: To collect items and find patterns among them.
 
 Materials: Pieces of paper-2 per player, Pens/pencils, Flipchart paper 􏰂 Markers, Armbands-different colour per team
@@ -382,7 +382,7 @@ No. of Players: 8 or more
   * Teams will have 10-15 minutes for this.
 10. Invite volunteers to share their findings with the wider group.
 
-::: tip Questions
+::: warning Questions
 What type of chart did you use? 
 
 What steps did you take to fill it out?
@@ -402,7 +402,7 @@ At school, have you ever used a chart or graph to compare something? What kind o
 
 To find patterns in the community.
 
-::: tip Rules
+::: warning Rules
 Goal: To collect items and find patterns among them.
 
 Materials: Flipchart paper (or chalkboard), Markers (or chalk) 􏰂 A4 paper, Pens/pencils
@@ -444,7 +444,7 @@ No. of Players: 6 or more
   * When you say “Share!” players will share their findings with the team.
 10. Collect the notes and explain that they will use them in the next activity
 
-::: tip Questions
+::: warning Questions
 Did your team members always have the same ideas? Why or why not?
 
 When you want to understand what your community is like, why is it important to get many different points of view?

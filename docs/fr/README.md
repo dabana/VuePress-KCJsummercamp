@@ -1,5 +1,5 @@
-# Bonjour, voici la version francaise du site
+# Version française de la documentation
 
-## Version Quebec v1.0
+## À suivre
 
-> Ici la version en Quebecois
+> Oh là là ! C’est une grande nouvelle ! :)

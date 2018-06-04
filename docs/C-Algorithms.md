@@ -10,7 +10,7 @@
 
 To give clear and specific instructions; to know that computers depend on clear and specific instructions.
 
-::: tip Rules
+::: warning Rules
 Goal: To instruct your partner to safely pass through an obstacle course.
 
 Materials: Blindfolds (or players can close their eyes), Random objects Chalk 
@@ -41,7 +41,7 @@ No. of Players: 2 or more
   * This is not a race, but a challenge to see if each team can work together to make it safely through the obstacle course.
 8. Repeat the game allowing the players to change roles.
 
-::: tip Questions
+::: warning Questions
 When you were a Coder, what made it easy or challenging to give clear instructions?
 
 How did it feel to know that your partner depended completely on you?
@@ -63,7 +63,7 @@ What happens if the instructions or information is not clear?
 
 To give clear and specific instructions; to know that computers depend on clear and specific instructions.
 
-::: tip Rules
+::: warning Rules
 Goal: To give clear and specific instructions; to know that computers depend on clear and specific instructions.
 
 Materials: None
@@ -89,7 +89,7 @@ No. of Players: 3 or more
   * When the Rookie does the movements correctly, players can change roles.
 3. Call players to change roles so that everyone has a turn in each role.
 
-::: tip Questions
+::: warning Questions
 Was it fun to be the Rookie? Why or why not?
 
 􏰂What made it easy or difficult to follow instructions?
@@ -113,7 +113,7 @@ The next time you give instructions, what is one thing that you can do to make t
 
 To give clear and specific instructions; to know that computers depend on clear and specific algorithms.
 
-::: tip Rules
+::: warning Rules
 Goal: To instruct teammates to act out a word.
 
 Materials: Game Cards, Flipchart/scrap paper, Markers/pens/pencils
@@ -144,7 +144,7 @@ No. of Players: 5 or more
 7. Invite volunteers to read their algorithms for the wider group to follow.
 8. The activity ends at your discretion.
 
-::: tip Questions
+::: warning Questions
 When you were the Instructor, what was challenging about giving instructions? 􏰂 
 
 What did you do if your team could not follow your instructions correctly?
@@ -166,7 +166,7 @@ Do you know how computers receive instructions?
 
 To create algorithms with clear instructions.
 
-::: tip Rules
+::: warning Rules
 Goal: To create instructions for a special handshake.
 
 Materials: Flipchart paper, Markers
@@ -197,7 +197,7 @@ No. of Players: 4 or more
 4. The activity ends when all teams have tested their algorithms.
 
 
-::: tip Questions
+::: warning Questions
 Was it easy or challenging to create an algorithm for your handshake?
 
 Did your algorithm work the way you expected?
@@ -217,7 +217,7 @@ Did your algorithm work the way you expected?
 
 To create clear and specific algorithms to meet a goal.
 
-::: tip Rules
+::: warning Rules
 Goal: To give instructions to create an image.
 
 Materials: Sticks/pencils/stones, Flipchart, paper, Scrap paper
@@ -247,7 +247,7 @@ No. of Players: 3 or more
 (Team C) to follow.
 7. Invite teams to see if Team C could create the design.
 
-::: tip Questions
+::: warning Questions
 Was it easy or challenging to give instructions?
 
 􏰂What were some of the challenges?
@@ -269,7 +269,7 @@ When we create instructions, what do we need to check for to make sure they lead
 
 To show an algorithm in a flowchart.
 
-::: tip Rules
+::: warning Rules
 Goal: To guess a sequence of actions and put it in a flowchart.
 
 Materials: Paper, Markers/pens/pencils, Game Cards
@@ -307,7 +307,7 @@ No. of Players: 4 or more
 says the correct order (see example cards below).
 8. The game ends at your discretion.
 
-::: tip Questions
+::: warning Questions
 What were the two ways that you wrote the order of the actions?
 
 Did you prefer the list of steps or the flowchart? Why? 􏰂 
@@ -327,7 +327,7 @@ Have you seen a flowchart before? What was it about?
 
 To find and fix mistakes in algorithms; to have a positive attitude about making mistakes.
 
-::: tip Rules
+::: warning Rules
 Goal: To find and fix mistakes in an algorithm.
 
 Materials: Paper, Markers/pens/pencils
@@ -357,7 +357,7 @@ No. of Players: 6 or more
 6. Gather everyone together.
 7. Explain that the group will celebrate what they have done today by doing the cheers as loud as they can. Invite teams to use their algorithms to lead their cheers with the wider group. (If there is not enough time, explain that when you say “Go!” all teams will do their own cheers at the same time.)
 
-::: tip Questions
+::: warning Questions
 What was a time that you learned from a mistake? 􏰂 
 
 How did that change you or help you grow?

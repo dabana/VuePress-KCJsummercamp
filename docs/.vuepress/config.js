@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'KCJ UNPLUGGED',
+    title: 'KCJ unplugged',
     description: 'A curated selection of RTP unplugged activities',
     locales: {
         '/': { 

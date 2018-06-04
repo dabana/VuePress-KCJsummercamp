@@ -1,6 +1,6 @@
 ---
 home: true
-# heroImage: hero.png
+heroImage: Heart.png
 actionText: Get Started
 actionLink: /a-problem-decomposition.md
 features:
