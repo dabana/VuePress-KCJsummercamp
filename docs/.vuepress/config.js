@@ -1,26 +1,22 @@
 module.exports = {
-    title: 'KCJ unplugged',
-    description: 'A curated selection of RTP unplugged activities',
-    locales: {
-        '/': { 
-            lang: 'english'
-        },
-        '/fr/': {
-            lang: 'français'
-        }
-    },
+    title: "KCJ - camp d'été",
+    description: "Une aventure qui mélange nature et technologie",
     themeConfig: {
         nav: [
-            {text: 'Home', link: './'},
-            {text: 'Problem Decomposition', link: 'a-problem-decomposition.md'},
-            {text: 'Data Information', link: 'b-data-information.md'},
-            {text: 'Algorithms', link: 'c-algorithms.md'},
+            {text: "Départ", link: './'},
+            {text: 'Jour 1', link: 'jour1.md'},
+            {text: 'Jour 2', link: 'jour2.md'},
+            {text: 'Jour 3', link: 'jour3.md'},
+            {text: 'Jour 4', link: 'jour4.md'},
+            {text: 'Jour 5', link: 'jour5.md'}
         ],
         sidebar: [
             './',
-            ['./a-problem-decomposition','Problem Decomposition'],
-            ['./b-data-information','Data Information'],
-            ['./c-algorithms','Algorithms']
+            ['./jour1','Jour 1'],
+            ['./jour2','Jour 2'],
+            ['./jour3','Jour 3'],
+            ['./jour4','Jour 4'],
+            ['./jour5','Jour 5']
         ]
     }
 }
