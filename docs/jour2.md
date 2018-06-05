@@ -1,10 +1,10 @@
-#DAY2
-=====
-### Construct your Base Camp
-> Architect grandeur nature + Instructions
-> Airdrop / alternative
-Microbit
---------
-> Faire la peche pour s'alimenter
 
-> Price for this day
+# DAY 2: Construct your pirate lair
+=====
+## Introductory unplugged activity 
+* Architect grandeur nature + Instructions
+* Airdrop / alternative (dabana: ?)
+
+## Microbit\Picobit activity
+* Faire la peche pour s'alimenter. Material: neodimium magnet, fishing rod.
+* Price for this day. Introduction of the score board

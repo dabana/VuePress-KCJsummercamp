@@ -1,8 +1,9 @@
-#DAY3
+# DAY 3: Pirates Training Bootcamp
 =====
-### Pirates Training Bootcamp - La valeur
-> Selctioner des choses de valeur
-> Secret Mission - pattern
-Microbit : Intro Counter
---------
-> Transport de tresor - gyro
+## Introductory unplugged activity 
+* Selectioner des choses de valeur: Secret Mission - pattern recognition
+
+## Microbit\Picobit activity
+* Microbit : Intro Counter (dabana: ?)
+* Transport de tresor fragile: gyroscope one axis
+* Lancer de tresor sur le bateau: On shake

@@ -1,13 +1,15 @@
-#DAY5
+# DAY 5: La bataille finale
 =====
-> Construction drapeau + connection electrique
-Microbit
---------
-> Capture the Flag + MicroBit
+## Introductory unplugged activity 
+* Bricolage: construction of the team flag + connection electrique
+
+
+## Microbit\Picobit activity
+* Capture the Flag + MicroBit: 
 
 ===================
 
-#EXTRA ACTIVITIES
+# EXTRA ACTIVITIES
 > Masque Nocturne
 
 > Shipwreck in case we change groups
