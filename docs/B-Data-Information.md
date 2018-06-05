@@ -58,7 +58,7 @@ In your culture, what are different ways people have shared messages without wor
 To represent the same information in different ways.
 
 ::: warning Rules
-Goal: To remember one another’s nicknames in 􏰂 Balloons or soft balls order to keep the ball in the air.
+Goal: To remember one another’s nicknames in Balloons or soft balls order to keep the ball in the air.
 
 Materials: Balloons or soft balls
 
@@ -98,7 +98,7 @@ Can you guess what symbols a computer uses to represent data inside itself?
 + Good for MicroBits => Counter.
 ```
 
-## 3. Pattern Charades
+## 3.Pattern Charades
 
 To represent the same information in different ways.
 
@@ -149,7 +149,7 @@ Can you think of any patterns that help you know how things work?
 - How to introduce MicroBit?
 ```
 
-## 4. Secret Mission
+## 4.Secret Mission
 
 To look for patterns to understand how things work.
 
@@ -191,7 +191,7 @@ If yes, what are some patterns that you have copied?
 - How to introduce MicroBit?
 ```
 
-## 5. Our Take
+## 5.Our Take
 
 To use patterns to form a conclusion.
 
@@ -236,7 +236,7 @@ Do these patterns tell you anything about the way things are or how things work?
 - How to introduce MicroBit?
 ```
 
-## 6. Strengths
+## 6.Strengths
 
 To use patterns and similarities to understand something.
 
@@ -282,14 +282,14 @@ In your life, how do you usually know if someone else is trustworthy (or respons
 - How to introduce MicroBit?
 ```
 
-## 7. Blinfool Fishing
+## 7.Blindfool Fishing
 
 To use charts to make comparisons and find similarities.
 
 ::: warning Rules
 Goal: To compare chores and show the results on a chart.
 
-Materials: Pens/pencils, Pieces of paper, Basin or large container, Blindfolds, Flipchart paper 􏰂 Markers
+Materials: Pens/pencils, Pieces of paper, Basin or large container, Blindfolds, Flipchart paper, Markers
 
 No. of Players: 5 or more
 :::
@@ -348,7 +348,7 @@ To organize data in a way that helps us find similarities.
 ::: warning Rules
 Goal: To collect items and find patterns among them.
 
-Materials: Pieces of paper-2 per player, Pens/pencils, Flipchart paper 􏰂 Markers, Armbands-different colour per team
+Materials: Pieces of paper-2 per player, Pens/pencils, Flipchart paper, Markers, Armbands-different colour per team
 
 No. of Players: 8 or more
 :::

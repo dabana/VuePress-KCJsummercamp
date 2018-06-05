@@ -27,9 +27,10 @@ In your own life, what is a goal that you can break into smaller parts?
 :::
 
 ```diff
-+ It can be a good beginning to start Memorizing the names of the different students.
-- Some students won't like it because they hate to Memorize.
-+ => Easy to introduce MicroBit : Counter
++ Excellent game to start to know eachother =>  names introduction
++ Having a String helps memorize and visualize paths
++ Histoires can be adapted by age: names, animals, dragons, heroes
++ MicroBit : pixels art design stories
 ```
 
 ## 2.Triathlon ( 5-8 yo ) 
@@ -62,9 +63,9 @@ hat are some other tasks that people break into smaller parts?
 :::
 
 ```diff
-+ It's good for early ages, Can be fun and easy to do
-- For ages +10 can be a bit boring or too easy
-+ => Easy to introduce MicroBit : Counter
++ Ideal for early ages
+- For ages +10 we recommend the Penathlon activity
++ MicroBit : pixels that represent each activity / counter
 ```
 
 ## 3.Pentathlon ( 8-12 yo)
@@ -75,17 +76,17 @@ To know that life goals can be broken into smaller parts.
 Goal: To complete a five-part game.
 
 Materials: Game Cards – 1 set per team, Chalk (or anything to mark lines on the ground),
-Hula hoop (or anything to mark a target) – 1 per team, Beanbags – 1 per team  Armbands
+Hula hoop (or anything to mark a target) – 1 per team, Beanbags, 1 per team, Armbands
 
 No. of Players: 4 or more
 :::
 
-1. Set up: A racing area with a start line and end line approximately 10 metres apart  A Beanbag Toss area with beanbags and targets.
+1. Set up: A racing area with a start line and end line approximately 10 metres apart. A Beanbag Toss area with beanbags and targets.
 2. Form teams of 6-8.
 3. Events:
   * Relay: Players will move to the end line and back and tag the next runner.
   * Beanbag Toss: Players will take turns trying to throw the beanbag into the target as many times as they can. 
-  *  Duo Tag: Players will play in pairs. Each player will wear an armband. Each player will face their partner and try to gently tag their partner’s armband while protecting themselves from being tagged. 
+  * Duo Tag: Players will play in pairs. Each player will wear an armband. Each player will face their partner and try to gently tag their partner’s armband while protecting themselves from being tagged. 
   * Slither Race: Players will move to the end line and back using only their hands. 
   * Wheelbarrow Race: In pairs, players will race to the end line. One player will be the Wheelbarrow by getting on their hands and knees. Their partner will push the Wheelbarrow by holding the Wheelbarrow’s legs. The Wheelbarrow moves forward using their hands. (If players cannot do this safely, they can stand with their backs to one another, link arms and walk, or they can do a 3-legged race.)
 4. Invite a few volunteers to demonstrate their movements to the group.
@@ -103,10 +104,10 @@ Invite teams to say what their process is and present the cards in order.
 :::
 
 ```diff
-+ It's a very complete game to do with time. They can learn to decompose one into 5.
-+ Once they gave the cards they have to think in the order of a Method. 1/2 movement, 1/2 thinking
++ A very complete and fun games for K-12
++ Good Balance between thinking and movement
 - Too complex for small kids?
-+ => Easy to introduce MicroBit : Counter
++ MicroBit : Pixel art design + Counter
 ```
 
 ## 4.Building a Computer
@@ -155,8 +156,8 @@ In the game we divided a team task. Did you ever divide a task that you worked o
 
 ```diff
 + It's good for all ages. Team efforts and task division are crucial.
-+  We will have to design with imagination each of the spaces - 'Space creation' could be part of it.
-+ => Easy to introduce MicroBit : Counter
++ We will have to design with imagination each of the spaces - 'Space creation' could be part of it.
++ MicroBit : Random object selection to define Treasures.
 ```
 
 ## 6. Unseen Structure
@@ -194,8 +195,8 @@ What strategies did you use?
 :::
 
 ```diff
-+ It is a good exercice to practice subdivision and giving right and precise commands
-+ Easy to accomodate fot different ages, think about how to do it for small kiddos
++ Good exercice to practice subdivision, to give precise commands.
++ Easy to accomodate for different ages.
 ```
 
 ## 7. Game Plan
