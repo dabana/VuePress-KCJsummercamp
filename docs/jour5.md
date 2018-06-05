@@ -19,6 +19,10 @@ Microbit
 > Cannonball Drop / egg drop
 
 =========================
-npm run docs:dev
-npm run docs:build
-surge docs/.vuepress/dist
+1. npm run docs:dev
+2. npm run docs:build
+3. surge docs/.vuepress/dist
+
+=========================
+
+[GITHUB](https://github.com/bernatferragut/VuePress-Projects)
