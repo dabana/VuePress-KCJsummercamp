@@ -10,5 +10,5 @@ features:
   details: Un monde imaginaire de Pirates
 - title: 1 Grande aventure 
   details: Aventure à la recherche d'un trésor
-footer: MIT Licensed | 2018-KCJ-Bernat Ferragut / David Blanville / Ross Hoss / Mélanie Rizk
+footer: MIT Licensed | 2018-KCJ-Bernat Ferragut / David Banville / Ross Hoss / Mélanie Rizk
 ---
