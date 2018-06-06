@@ -30,22 +30,13 @@ The final battle is in three stages:
 
 The winner of the round is the team that successfully brings the captain's heart back to their base. The round is a draw if the heart is successfully intercepted by the defenders or if it is dropped. 
 
-===================
-
-# EXTRA ACTIVITIES
-> Masque Nocturne
-
-> Flash light tag
+## Misc
 
 > Shipwreck in case we change groups
 
 > coins = power
 
 > coins =  colors
-
-> Cannonball Drop / egg drop
-
-> Control your parents
 
 =========================
 1. npm run docs:dev
