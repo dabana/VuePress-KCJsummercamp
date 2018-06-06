@@ -9,14 +9,18 @@ It is well known that pirates like to fight just for fun.
 
 There is a lot to do to get ready for the battle. First the team has to build an unbreakable treasure chest that looks awesome and that contains the heart of their captain.
 
-### Microbit\Picobit activity
+## Microbit\Picobit activity
+
+### Add technological security features to your treasure chest
 
 The treasure chest can be opened only if every team member puts in his/her coin. The chest is also equiped with an alarm system that warns the team if it has been opened. The team has to write two different microbit programs to achieve these functionnality.
 
 1. A coin counter for opening the chest
 2. An alarm system to detect the opening of the chest
 
-### The final battle
+## The final battle
+
+### A complex capture the flag type of game
 
 The final battle is in three stages:
 

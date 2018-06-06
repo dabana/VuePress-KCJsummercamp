@@ -3,13 +3,18 @@
 Pirates get to know each other and learn to bond as a team.
 
 =====
-## Introductory unplugged activity 
+## Introductory unplugged activity
+
 ### The pirate's Web (inspired by RTP Hero's Web)
-A game for every pirate to share their names and nicknames.   
+
+A game for every pirate to share their names and nicknames.
+
 ### The pirate's secret handshake (inspired from RTP Secret Handshake)
+
 A game for the pirates to bind with their team mates by inventing a secret hand shake. 
 
 ## Microbit\Picobit activity
+
 ### The iPatch: an electronic eye patch for cool pirates
 
 1. Create a 5x5 pixels animated avatar
