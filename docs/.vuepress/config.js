@@ -10,6 +10,7 @@ module.exports = {
             {text: 'Jour 4', link: 'jour4.md'},
             {text: 'Jour 5', link: 'jour5.md'},
             {text: 'Material', link: 'material.md'},
+            {text: 'Extra activities', link: 'extra_activities.md'}
         ],
         sidebar: [
             './',
@@ -18,7 +19,8 @@ module.exports = {
             ['./jour3','Jour 3'],
             ['./jour4','Jour 4'],
             ['./jour5','Jour 5'],
-            ['./material', 'Material']
+            ['./material', 'Material'],
+            ['./extra_activities', 'Extra activities']
         ]
     }
 }

@@ -22,4 +22,4 @@ A game for the pirates to bind with their team mates by inventing a secret hand 
 3. Download your pixel artwork to the microbit
 4. Stick the microbit to an eye patch and there you go, you have an iPatch
 
-Bernat change quelquechose
+Authors: B. Feragut and D. Banville

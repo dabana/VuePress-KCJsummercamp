@@ -21,6 +21,8 @@ Material:
 * Cardboard fishies with magnets attached to them
 * Fishing poles with a magnet attached to the string 
 
+Authors: D. Banville and B. Ferragut
+
 ### Introduction to the score board
 
 Throughout the week, teams of pirate are granted "coins" for their success in the various games.

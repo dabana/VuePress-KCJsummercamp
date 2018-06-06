@@ -18,9 +18,7 @@ The treasure chest can be opened only if every team member puts in his/her coin.
 1. A coin counter for opening the chest
 2. An alarm system to detect the opening of the chest
 
-## The final battle
-
-### A complex capture the flag type of game
+### The final battle: a complex capture the flag type of game
 
 The final battle is in three stages:
 
@@ -28,7 +26,9 @@ The final battle is in three stages:
 2. They then go to the other teams' chest and puts in the stolen coins until the treasure chest is unlocked
 3. Once a treasure chest is unlocked, the attackers can now steal the heart of their opponents' captain and they have to bring it back to their base without droping it. The attackers cannot run with the heart, they have to pass it to each other. The defenders have to try by all means to intercept the stolen heart. 
 
-The winner of the round is the team that successfully brings the captain's heart back to their base. The round is a draw if the heart is successfully intercepted by the defenders or if it is dropped. 
+The winner of the round is the team that successfully brings the captain's heart back to their base. The round is a draw if the heart is successfully intercepted by the defenders or if it is dropped.
+
+Authors: D. Banville and B. Ferragut
 
 ## Misc
 
