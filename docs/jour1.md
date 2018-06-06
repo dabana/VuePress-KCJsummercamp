@@ -1,4 +1,3 @@
-DAVID!
 # DAY 1: Create your pirate identity and join a crew
 
 Pirates get to know each other and learn to bond as a team.
@@ -22,3 +21,5 @@ A game for the pirates to bind with their team mates by inventing a secret hand 
 2. Write a program to display it on the microbit LED array
 3. Download your pixel artwork to the microbit
 4. Stick the microbit to an eye patch and there you go, you have an iPatch
+
+David change quelquechose
