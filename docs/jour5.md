@@ -1,7 +1,11 @@
-# DAY 5: La bataille finale
+# DAY 5: The final battle
+
+It is well known that pirates like to fight just for fun.
+
 =====
 ## Introductory unplugged activity 
-* Bricolage: construction of the team flag + connection electrique
+### Build an unbreakable treasure chest
+Bricolage: construction of the team flag + connection electrique
 
 
 ## Microbit\Picobit activity
@@ -19,6 +23,8 @@
 > coins =  colors
 
 > Cannonball Drop / egg drop
+
+> Control your parents
 
 =========================
 1. npm run docs:dev
