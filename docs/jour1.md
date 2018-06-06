@@ -1,3 +1,4 @@
+DAVID!
 # DAY 1: Create your pirate identity and join a crew
 
 Pirates get to know each other and learn to bond as a team.
