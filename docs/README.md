@@ -12,5 +12,3 @@ features:
   details: Aventure à la recherche d'un trésor
 footer: MIT Licensed | 2018-KCJ-Bernat Ferragut / David Banville / Ross Hoss / Mélanie Rizk
 ---
-
-# Bonjour DAVID !!!! c'est LUNDI MATIN
