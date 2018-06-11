@@ -43,3 +43,8 @@ Authors: D. Banville and B. Ferragut
 ### Introduction to the score board
 
 Throughout the week, teams of pirate are granted "coins" for their success in the various games.
+
+### Materiel
+
+- USB Mouses!!!
+- Chest carrier
