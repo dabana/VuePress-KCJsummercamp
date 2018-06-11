@@ -40,3 +40,4 @@ Items in a treasure are often very fragile. The crew members have to write a mic
 
 - USB Mouses!!!
 - Build two Chest carrier
+- Adjust different tilt sensibilities
