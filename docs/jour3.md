@@ -8,9 +8,20 @@ A pirate has to understand what value means and how to preserve it.
 
 ### Find precious goods (inspired by RTP Secret Mission)
 
-The captain asks the crew to bring back precious goods but does not tell exactly what he is looking for. He rejects or accepts objects based on a certain pattern the crew members have to discover.
+The captain asks the crew to bring back precious goods but does not tell exactly what he is looking for. 
+He rejects or accepts objects based on a certain pattern the crew members have to discover.
 
-## Microbit\Picobit activity
+Examples: 
+- Things of red / blue
+- Things of wood /  metal / rocks
+- Things light / heavyig / , big / small
+- Worked by men or not
+
+> Create a small competition: The first who finds the Pattern wins Points
+
+## Microbit activity
+
+
 
 ### Proper treasure handling
 

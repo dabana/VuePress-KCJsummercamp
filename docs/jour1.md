@@ -11,11 +11,11 @@ A game for every pirate to share their names and nicknames.
 
 - Give stickers to write names to kids - stik it on tshirt
 - 1 Round - Show names 
-- 2 Round - Pass the String - create Chaos - Tangle / Untangle
+- 2 ound - Pass the String - create Chaos - Tangle / Untangle
 - 3 Round - Pirate Names - Try double Tangle...too complex?
 - Questions
 
-## Microbit\Picobit activity
+## Microbit activity
 
 ### The iPatch: an electronic eye patch for cool pirates
 
@@ -31,11 +31,16 @@ A game for every pirate to share their names and nicknames.
 
 4. Stick the microbit to an eye patch and there you go, you have an iPatch.
 
-> Prepare also a necklace
+> Prepare also a necklace with Battery Back Plate
 
 ### The pirate's secret handshake (inspired from RTP Secret Handshake)
 
 A game for the pirates to bind with their team mates by inventing a secret hand shake. 
 
 Authors: B. Feragut and D. Banville
+
+### Extra Activities
+
+1. Read Pirate Books for kiddos
+2. Paint your Pirate for Artists
 
