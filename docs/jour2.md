@@ -2,13 +2,24 @@
 # DAY 2: Create the perfect pirate lair
 
 Pirates need a place to relax and live a genuinly unproductive life.
+We willl divide de space in 2 to 3 main areas.
+1. Fort Space ( to hodl valuable tresor )
+2. Chill Space ( to relax and party)
 
 =====
 ## Introductory unplugged activity 
 
-### Build your pirate lair (inspired by RTP Architect)
+### Build your pirate lair (inspired by RTP Architect) 
+> INDOORS and OUTDOORS
 
-Some members of the crew design a nice pirate lair and make a sketch of it. Other members who have not seen the sketch have to follow the building instructions given by the designers and build the lair.
+In the Center we have a big pile of objects to build the spaces.
+( we will need lots of elements, cussion, chairs, strings, branches...)
+
+- Create two teams one for each space
+- Create two category piles
+- Architects draw the Plan Older/Younger we give an already made plan
+- Builders go outside to pick up decoration materials
+- Architects give precise instructions to build the camps
 
 ## Microbit\Picobit activity
 
