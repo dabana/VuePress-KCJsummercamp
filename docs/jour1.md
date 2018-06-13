@@ -31,13 +31,14 @@ A game for every pirate to share their names and nicknames.
 
 > Prepare also a necklace with Battery Back Plate
 
-## 3. The pirate's secret handshake (inspired from RTP Secret Handshake)
+## 3. The pirate's secret handshake (inspired from RTP Secret Handshake) / Maori-Pirate Choreography ( all inclusive )
 > INDOOR or OUTDOOR
 
 A game for the pirates to bind with their team mates by inventing a secret hand shake. 
 1) The group is divided into two or three teams.
 2) Each group creates a secret hand shakes that involves at least 3 mouvements (at most 5)
 3) One or two representent of each team have to go and show the other teams there secret handshake with showing them with their hands.  
+4) We will made them crete their own Pirate Gang War-dance
 
 Authors: B. Feragut and D. Banville
 
