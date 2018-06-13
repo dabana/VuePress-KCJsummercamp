@@ -3,9 +3,7 @@
 
 Pirates need a place to relax and live a genuinly unproductive life.
 
-
-=====
-## Introductory unplugged activity 
+## 1. Introductory unplugged activity 
 
 ### Build your pirate lair (inspired by RTP Architect) 
 > INDOORS and OUTDOORS
@@ -23,9 +21,11 @@ In the center there is pile of objects to distribute in the different thematic a
 4) In the meantime the remaining members of the team, the Builders, go outside to pick up decoration materials
 5) Architects have to give precise instructions to the Builders so they build the camp according to the plan
 
-## Microbit activity
+## 2. Microbit activity
 
-### It is time to go fishing
+- Prepare the MicroBit for fishing
+
+## 3. It is time to go fishing
 > INDOORS and OUTDOORS
 
 Members of the crew program a microbit that detects magnetic fields and emit sound and light.

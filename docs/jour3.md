@@ -2,9 +2,7 @@
 
 A pirate has to understand what value means and how to preserve it.
 
-=====
-
-## Introductory unplugged activity 
+## 1. Introductory unplugged activity 
 
 ### Find precious goods (inspired by RTP Secret Mission)
 
@@ -19,9 +17,11 @@ Examples of pattern:
 
 > Create a small competition: The first who finds the Pattern wins Points
 
-## Microbit activity
+## 2. Microbit activity
 
-### Proper treasure handling
+- Prepare the MicroBit for detecting tilt 
+
+## 3. Proper treasure handling
 
 Items in a treasure are often very fragile. The crew members have to write a microbit program to detect if a treasure item has been miss-handled using the gyroscope readings. They pratice extreme treasure handling in a obstacle course.
 

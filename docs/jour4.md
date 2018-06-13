@@ -2,8 +2,7 @@
 
 With the help of technology and an old amnesiac pirate, the crew finds Barbe Bleu's treasure before he does.
 
-=====
-## Introductory unplugged activity
+## 1. Introductory unplugged activity
 
 ### Draw a treasure map (inpired by RTP Unseen Structure)
 
@@ -12,11 +11,11 @@ With the help of technology and an old amnesiac pirate, the crew finds Barbe Ble
 3) Every team sends a scout to check the map in the cave. The scout has only 3 seconds to look at the map and help his team reproduce the map correctly. (We light the cave with a candle for few seconds)
 4) Once every kid has gone to the cave and the map is complete, the two teams compare their maps.
 
-## Microbit\Picobit activity 
+## 2. Microbit\Picobit activity 
 
 - Check the radio distance WIP
 
-### The treasure detector (inspired by Hot-Cold)
+## 3. The treasure detector (inspired by Hot-Cold)
 
 The crew programs their microbit to send radio signals of various strenghts so their microbit can be used as a range finder. With the help of their map and their special treasure detector, they can now hunt down the treasure.
 

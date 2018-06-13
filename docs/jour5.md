@@ -2,14 +2,13 @@
 
 It is well known that pirates like to fight just for fun.
 
-=====
-## Introductory unplugged activity
+## 1. Introductory unplugged activity
 
 ### Build an unbreakable treasure chest
 
 There is a lot to do to get ready for the battle. First the team has to build an unbreakable treasure chest that looks awesome and that contains the heart of their captain.
 
-## Microbit\Picobit activity
+## 2. Microbit\Picobit activity
 
 ### Add technological security features to your treasure chest
 
@@ -18,7 +17,7 @@ The treasure chest can be opened only if every team member puts in his/her coin.
 1. A coin counter for opening the chest
 2. An alarm system to detect the opening of the chest
 
-### The final battle: a complex capture the flag type of game
+## 3. The final battle: a complex capture the flag type of game
 
 The final battle is in three stages:
 
