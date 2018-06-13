@@ -1,8 +1,9 @@
-# DAY 1 - Create your pirate identity
+# DAY 1: Create your pirate identity and join a crew
 
 Pirates get to know each other and learn to bond as a team.
 
-## 1. Introductory unplugged activity
+=====
+## Introductory unplugged activity
 
 ### The pirate's Web (inspired by RTP Hero's Web)
 > INDOOR or OUTDOOR
@@ -15,7 +16,7 @@ A game for every pirate to share their names and nicknames.
 4) Third Round: Use your Pirate nicknames. Try a double tangle with names and nicknames... too complex?
 5) Ask questions on how complicated looked the tangle, etc.
 
-## 2. Microbit activity
+## Microbit activity
 
 ### The iPatch: an electronic eye patch for cool pirates
 > mainly INDOORS or OUTDOORS in shaded area
@@ -31,15 +32,8 @@ A game for every pirate to share their names and nicknames.
 
 > Prepare also a necklace with Battery Back Plate
 
-<<<<<<< HEAD
-## 3. The pirate's secret handshake (inspired from RTP Secret Handshake)
-=======
 ### The pirate's secret handshake (inspired from RTP Secret Handshake)
 > INDOOR or OUTDOOR
-<<<<<<< HEAD
->>>>>>> 89685a5f2d050ecc847a7e233ceda9c5431630aa
-=======
->>>>>>> 89685a5f2d050ecc847a7e233ceda9c5431630aa
 
 A game for the pirates to bind with their team mates by inventing a secret hand shake. 
 1) The group is divided into two or three teams.

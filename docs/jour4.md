@@ -1,8 +1,9 @@
-# DAY 4 - The treasure hunt
+# DAY 4: The treasure hunt
 
 With the help of technology and an old amnesiac pirate, the crew finds Barbe Bleu's treasure before he does.
 
-## 1. Introductory unplugged activity
+=====
+## Introductory unplugged activity
 
 ### Draw a treasure map (inpired by RTP Unseen Structure)
 
@@ -15,11 +16,11 @@ The crew members have to draw a map to the treasure based on the instructions fr
 - All of them will go to make sure the map is well described
 - Finnally we compare the maps of both teams
 
-## 2. Microbit\Picobit activity 
+## Microbit\Picobit activity 
 
 - Check the radio distance WIP
 
-## 3. The treasure detector (inspired by Hot-Cold)
+### The treasure detector (inspired by Hot-Cold)
 
 The crew programs their microbit to send radio signals of various strenghts so their microbit can be used as a range finder. With the help of their map and their special treasure detector, they can now hunt down the treasure.
 
@@ -28,6 +29,7 @@ The crew programs their microbit to send radio signals of various strenghts so t
 - Measuring the frequence distance and adding a sound to it
 - Find the treasure and the key!!!
 
-## Materiel
+Materiel
+========
 1. Bougies 
 2. Allumettes

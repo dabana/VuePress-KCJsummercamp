@@ -1,14 +1,11 @@
 
-# DAY 2 - Create the perfect pirate lair
+# DAY 2: Create the perfect pirate lair
 
 Pirates need a place to relax and live a genuinly unproductive life.
-<<<<<<< HEAD
-=======
-
->>>>>>> 89685a5f2d050ecc847a7e233ceda9c5431630aa
 
 
-## 1. Introductory unplugged activity 
+=====
+## Introductory unplugged activity 
 
 ### Build your pirate lair (inspired by RTP Architect) 
 > INDOORS and OUTDOORS
@@ -26,21 +23,10 @@ In the center there is pile of objects to distribute in the different thematic a
 4) In the meantime the remaining members of the team, the Builders, go outside to pick up decoration materials
 5) Architects have to give precise instructions to the Builders so they build the camp according to the plan
 
-## 2. Microbit activity
+## Microbit activity
 
-<<<<<<< HEAD
-1. Explain magnetism and magnets
-2. Magnetism detection in Microbit
-3. if / else
-
-## 3. It is time to go fishing
-=======
 ### It is time to go fishing
 > INDOORS and OUTDOORS
-<<<<<<< HEAD
->>>>>>> 89685a5f2d050ecc847a7e233ceda9c5431630aa
-=======
->>>>>>> 89685a5f2d050ecc847a7e233ceda9c5431630aa
 
 Members of the crew program a microbit that detects magnetic fields and emit sound and light.
 They can use it as a special fish finder to catch their dinner more efficiently. 

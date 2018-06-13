@@ -1,8 +1,10 @@
-# DAY 3 - Pirates Training Bootcamp
+# DAY 3: Pirates Training Bootcamp
 
 A pirate has to understand what value means and how to preserve it.
 
-## 1. Introductory unplugged activity 
+=====
+
+## Introductory unplugged activity 
 
 ### Find precious goods (inspired by RTP Secret Mission)
 
@@ -17,7 +19,7 @@ Examples of pattern:
 
 > Create a small competition: The first who finds the Pattern wins Points
 
-## 2. Microbit activity
+## Microbit activity
 
 ### Proper treasure handling
 
@@ -30,21 +32,4 @@ Items in a treasure are often very fragile. The crew members have to write a mic
 5) The mirobit is attach to the chest and a soun is emitted if the tilt angle is over a certain value.
 6) Points are given to each team: points to be the first. Points are removed for each improper handling event.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-## 3. Obstacles Race with transporting the treasure chest
-
-- Two groups
-- Tresor transport to the other side
-- We have points to arrive + points to be the first - points of extreme chest handling
-
-### Materiel
-- USB Mouses!!!
-- Build two Chest carrier
-- Adjust different tilt sensibilities
-=======
 > Prepare two or three microbits with different tilt sensitivities to spice up the game if needed.
->>>>>>> 89685a5f2d050ecc847a7e233ceda9c5431630aa
-=======
-> Prepare two or three microbits with different tilt sensitivities to spice up the game if needed.
->>>>>>> 89685a5f2d050ecc847a7e233ceda9c5431630aa

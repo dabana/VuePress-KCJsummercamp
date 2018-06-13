@@ -4,13 +4,16 @@
 
 |Item                 |                For what activity? | Where to buy?      | Price estimate |
 | ------------------------ | --------------------------------- | --------------------------------- | ---|
-|Strong neodynium magnets | final battle, fishing and treasure hunt | Digikey | 32 $ for 25|
-|Coin cell batteries (CR2032) | all | Sparkfun | 2$ each, 60$ for 30 |
+|Strong neodynium magnets | final battle, fishing and treasure hunt | Digikey, ABRA | 40 $ for 25|
+|Coin cell batteries (CR2032) | all | ABRA | 2$ each, 60$ for 30 |
 |Two portable guitare amplifiers | all | Amazon | 100 $ each, 200$ for 2|
-|Audio jacks and cables | all  | Abra | 20 $|
-|Plastic cases for microbits | all | Abra | 10$ |
+|Audio jacks and cables | all  | ABRA | 20 $|
+|Plastic cases for microbits | all | Abra | 7$ each, for 14$ |
 | 3D printed microbit cases | all | Ross? | 3$ each, 45$ for 15|
 | About 15 USB mouses | all | Amazon | 10$ each, for 150$|
+| Microbit battery holder add-on | all | 10$ each, for 150$|
+
+Total of about 680$ for electronics
 
 ## Accessories and costumes
 
@@ -32,4 +35,6 @@
 | Headkerchiefs of different colors | final battle: team identifier | Dollorama/Party expert | 5$ |
 | Candels | Draw your treasure map| Dollorama | 10$ a box of 20|
 |Lighters | Draw your treasure map| Dollorama | 4$ for 2|
+
+Total of about 190$ for accessories and costums
 
