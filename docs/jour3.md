@@ -19,7 +19,9 @@ Examples of pattern:
 
 ## 2. Microbit activity
 
-- Prepare the MicroBit for detecting tilt 
+- Prepare the MicroBit for detecting tilt
+- We will have 100 coins and each time we tilt too much we lose coins
+- See how many coins are left in the coffin once the race end!
 
 ## 3. Proper treasure handling
 

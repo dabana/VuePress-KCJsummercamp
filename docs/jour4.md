@@ -11,9 +11,11 @@ With the help of technology and an old amnesiac pirate, the crew finds Barbe Ble
 3) Every team sends a scout to check the map in the cave. The scout has only 3 seconds to look at the map and help his team reproduce the map correctly. (We light the cave with a candle for few seconds)
 4) Once every kid has gone to the cave and the map is complete, the two teams compare their maps.
 
-## 2. Microbit\Picobit activity 
+## 2. Microbit activity 
 
 - Check the radio distance WIP
+- One MicroBit with radio to find the are where the treasure is found - General
+- One MicroBit that will detect the with magnetism exact location - Concrete
 
 ## 3. The treasure detector (inspired by Hot-Cold)
 

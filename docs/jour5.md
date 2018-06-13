@@ -8,7 +8,7 @@ It is well known that pirates like to fight just for fun.
 
 There is a lot to do to get ready for the battle. First the team has to build an unbreakable treasure chest that looks awesome and that contains the heart of their captain.
 
-## 2. Microbit\Picobit activity
+## 2. Microbit activity
 
 ### Add technological security features to your treasure chest
 
