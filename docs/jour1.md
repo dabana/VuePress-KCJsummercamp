@@ -1,41 +1,50 @@
-# DAY 1: Create your pirate identity and join a crew
+# DAY 1 - Create your pirate identity
 
 Pirates get to know each other and learn to bond as a team.
 
-=====
-## Introductory unplugged activity
+## 1. Introductory unplugged activity
 
-### The pirate's Web (inspired by RTP Hero's Web)| buy cases ABRA
+### The pirate's Web (inspired by RTP Hero's Web)
+> INDOOR or OUTDOOR
 
 A game for every pirate to share their names and nicknames.
 
-- Give stickers to write names to kids - stik it on tshirt
-- 1 Round - Show names 
-- 2 ound - Pass the String - create Chaos - Tangle / Untangle
-- 3 Round - Pirate Names - Try double Tangle...too complex?
-- Questions
+1) Give a sticker to each kid so they can write their names and stick them on there t-shirt
+2) First Round: Pass a ball around and tell the name of the person you pass the ball to. 
+3) Second round: Instead of a ball, pass around a bundle of string. Create a tangle of strings, then pass the bundle backward to untangle.
+4) Third Round: Use your Pirate nicknames. Try a double tangle with names and nicknames... too complex?
+5) Ask questions on how complicated looked the tangle, etc.
 
-## Microbit activity
+## 2. Microbit activity
 
 ### The iPatch: an electronic eye patch for cool pirates
+> mainly INDOORS or OUTDOORS in shaded area
 
 1. Create a 5x5 pixels animated avatar
-- Full: Square
-- Create: Pirate Symbol
-
 2. Write a program to display it on the microbit LED array
 3. Download your pixel artwork to the microbit
-- First Download => Full Download + 1 Input - Button A
-- Second Download => Input - onShake  + Creste image
-- Third Download => Input - Button A/B + AB + Animation (loop)
+- First Download => create 2 static avatars and switch using Button A
+- Second Download => Create your own image and use onShake to display it
+- Third Download => Create an animation using a loop and use input B or A+B to start it
 
 4. Stick the microbit to an eye patch and there you go, you have an iPatch.
 
 > Prepare also a necklace with Battery Back Plate
 
+<<<<<<< HEAD
+## 3. The pirate's secret handshake (inspired from RTP Secret Handshake)
+=======
 ### The pirate's secret handshake (inspired from RTP Secret Handshake)
+> INDOOR or OUTDOOR
+<<<<<<< HEAD
+>>>>>>> 89685a5f2d050ecc847a7e233ceda9c5431630aa
+=======
+>>>>>>> 89685a5f2d050ecc847a7e233ceda9c5431630aa
 
 A game for the pirates to bind with their team mates by inventing a secret hand shake. 
+1) The group is divided into two or three teams.
+2) Each group creates a secret hand shakes that involves at least 3 mouvements (at most 5)
+3) One or two representent of each team have to go and show the other teams there secret handshake with showing them with their hands.  
 
 Authors: B. Feragut and D. Banville
 
