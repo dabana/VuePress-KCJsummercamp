@@ -14,6 +14,10 @@ There is a lot to do to get ready for the battle. First the team has to build an
 
 The treasure chest can be opened only if every team member puts in his/her coin. The chest is also equiped with an alarm system that warns the team if it has been opened. The team has to write two different microbit programs to achieve these functionnality.
 
+
+A. Find their own strategy - 
+
+0. Each pirate has a coin
 1. A coin counter for opening the chest
 2. An alarm system to detect the opening of the chest
 
@@ -21,6 +25,7 @@ The treasure chest can be opened only if every team member puts in his/her coin.
 
 The final battle is in three stages:
 
+0. Each time has a 'safe zone' for the chest and each kid a coin ( they need all coins to open the chest )
 1. During a special kind of tag, the other team can steal the coins from their opponents
 2. They then go to the other teams' chest and puts in the stolen coins until the treasure chest is unlocked
 3. Once a treasure chest is unlocked, the attackers can now steal the heart of their opponents' captain and they have to bring it back to their base without droping it. The attackers cannot run with the heart, they have to pass it to each other. The defenders have to try by all means to intercept the stolen heart. 
@@ -30,6 +35,8 @@ The winner of the round is the team that successfully brings the captain's heart
 Authors: D. Banville and B. Ferragut
 
 ## Misc
+
+> 7 FLAGS one COLOR 7 FLAGS another COLOR
 
 > Shipwreck in case we change groups
 
