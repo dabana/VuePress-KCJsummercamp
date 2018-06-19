@@ -15,11 +15,16 @@ The space will be divided in two (or three) areas, each with a theme, for exampl
 
 In the center there is pile of objects to distribute in the different thematic areas. (we will need lots of elements, cussion, chairs, strings, branches...)
 
-1) Create two (or three) teams, one for each thematic area
-2) Create two (or three) categories of objects and ask the group to decide what object belongs where
-3) In each team, Architects are designated to draw a plan of were every object should go in the area. For younger kids condisder giving the plan already made.
-4) In the meantime the remaining members of the team, the Builders, go outside to pick up decoration materials
-5) Architects have to give precise instructions to the Builders so they build the camp according to the plan
+| Young kids (5 to 7) | Older kids (8 to 12) |
+|---------------------|----------------------|
+|1. Create two teams, one for each thematic area | 1. Create two (or three) teams, one for each thematic area |
+|2. Create two (or three) categories of objects and ask the group to decide what object belongs where.|2. Create two (or three) categories of objects and ask the group to decide what object belongs where.|
+|3. In each team, choose the 5 most important objects to place first. |3. In each team, choose the 5 most important objects to place first.|
+|4. Open discussion with kids on where to place the selected items. |4. In each team, Architects are designated to draw a plan (top vue) of where each of the selected objects should go in the area.|
+|5. Now is time to place the other objects and decorate the lair with objects from nature. |5. The teams rotate, but the Architects stay where the are. Each team has to follow thee instructions of the Architects to achieve the plan. |
+|     | 6. Once every team is done building there part of the lair, now is time to place the other objects and decorate the lair with objects from nature.|
+|6. Finaly, the kids design a pirate flag, and hang it to their lair|7. Finaly, the kids design a pirate flag, and hang it to their lair|
+
 
 ## 2. Microbit activity
 
