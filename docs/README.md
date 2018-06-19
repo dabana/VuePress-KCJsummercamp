@@ -1,14 +1,14 @@
 ---
 home: true
 heroImage: Camp.png
-actionText: Commencer!
-actionLink: /jour1.md
+actionText: Start!
+actionLink: /day1.md
 features:
-- title: 5 Jours
-  details: 5 jours d'immersion dans la nature
-- title: 1 Thème
-  details: Un monde imaginaire de Pirates
-- title: 1 Grande aventure 
-  details: Aventure à la recherche d'un trésor
+- title: 5 days
+  details: 5 days of fun in nature
+- title: 1 Theme
+  details: An imaginary adventure in the world of Pirates
+- title: 1 great adventure 
+  details: An adventure looking for a treasure
 footer: MIT Licensed | 2018-KCJ-Bernat Ferragut / David Banville / Ross Hoss / Mélanie Rizk
 ---

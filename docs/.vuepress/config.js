@@ -1,24 +1,24 @@
 module.exports = {
-    title: "KCJ - camp d'été",
-    description: "Une aventure qui mélange nature et technologie",
+    title: "KCJ - Summer Camp",
+    description: "An adventure blending nature and technology.",
     themeConfig: {
         nav: [
-            {text: "Départ", link: './'},
-            {text: 'Jour 1', link: 'jour1.md'},
-            {text: 'Jour 2', link: 'jour2.md'},
-            {text: 'Jour 3', link: 'jour3.md'},
-            {text: 'Jour 4', link: 'jour4.md'},
-            {text: 'Jour 5', link: 'jour5.md'},
+            {text: "Start", link: './'},
+            {text: 'Day 1', link: 'day1.md'},
+            {text: 'Day 2', link: 'day2.md'},
+            {text: 'Day 3', link: 'day3.md'},
+            {text: 'Day 4', link: 'day4.md'},
+            {text: 'Day 5', link: 'day5.md'},
             {text: 'Material', link: 'material.md'},
             {text: 'Extra activities', link: 'extra_activities.md'}
         ],
         sidebar: [
             './',
-            ['./jour1','Jour 1'],
-            ['./jour2','Jour 2'],
-            ['./jour3','Jour 3'],
-            ['./jour4','Jour 4'],
-            ['./jour5','Jour 5'],
+            ['./day1','Day 1'],
+            ['./day2','Day 2'],
+            ['./day3','Day 3'],
+            ['./day4','Day 4'],
+            ['./day5','Day 5'],
             ['./material', 'Material'],
             ['./extra_activities', 'Extra activities']
         ]
