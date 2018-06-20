@@ -21,18 +21,19 @@ Examples of pattern:
 ## 2. Microbit activity
 
 - Prepare the MicroBit for detecting tilt
-- We will have 100 coins and each time we tilt too much we lose coins
+- We will have 1000 coins and each time we tilt too much we lose either 1 or 10 coins.
 - See how many coins are left in the coffin once the race end!
 
 ## 3. Proper treasure handling
 
 Items in a treasure are often very fragile. The crew members have to write a microbit program to detect if a treasure item has been miss-handled using the gyroscope readings. They pratice extreme treasure handling in a obstacle course.
 
-1) The program displays the information from the gyro with images and sound (use only x axis)
-2) The microbit is attached to the Chest carrier
-3) We divided in two groups
-4) Kids transport the chest in the obstacle course two by two, each holding to one side of the chest
-5) The mirobit is attach to the chest and a soun is emitted if the tilt angle is over a certain value.
-6) Points are given to each team: points to be the first. Points are removed for each improper handling event.
+1. We create 1 progam that contros the sound and another the points based on tilt.
+2. The Sound program emits two different sounds to tell how extreme your tilt is
+3. A great and difficult obstacle race is created where the participants have to 
+move, jump, go up and down at a good speed until reach the end.
+4. At the end of the race we see which participants conserve more coins in a linited amount of time.
 
-> Prepare two or three microbits with different tilt sensitivities to spice up the game if needed.
+> A- Prepare two boxes with jack and switch to control the sound.
+
+> B- Prepare 2 Microbits to count the coins
