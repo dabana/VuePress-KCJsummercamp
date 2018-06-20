@@ -9,7 +9,7 @@
 |Two portable guitare amplifiers | all | Amazon, Addison, Pawnshop | 100 $ each, 200$ for 2|Online at Amazon|
 |Audio cables | all  | Addison, ABRA | 20 $|David|
 |Audio jacks | all  | Addison, ABRA | 3 $|David|
-|Toggle switch| all |ABRA, Home depot |3| in store|
+|Toggle switch| all |ABRA, Home depot |3|* in store|
 |Plastic cases for microbits | all | ABRA | 7$ each, for 14$ |* in store|
 | About 15 USB mouses | all | Amazon | 10$ each, for 150$| Benjamin? |
 | Microbit battery holder add-on | all | Amazon, ABRA |10$ each, for 150$| online at ABRA|
@@ -21,7 +21,7 @@
 |Item                 |                For what activity? | Where to buy?      | Price estimate |checkbox|
 | ------------------------ | --------------------------------- | --------------------------------- | ---|---|
 |Eye patches | pixel art pirate eye patch | Party Expert | 3 $ each, 12$ for 4 | * in store |
-| Double sized tape | pixel art pirate eye patch | Home depot| 15 $ | in store|
+| Double sized tape | pixel art pirate eye patch | Home depot| 15 $ |* in store|
 | Pirate costumes for David and Bernat | all | Eva B, Party expert| 40 $|* in store|
 | Pirate coins| all| Party expert| 8 $|* in store|
 | Corde escalade | Pirate's web | |David|
@@ -41,6 +41,5 @@
 | Foam balls | final battle: captain's heart | Walmart, Party expert | 30$ each, 60$ for 2 |Online at Walmart|
 | Headkerchiefs | final battle: team identifier | Party expert, Amazon | 30$ 2 packs of 12 |Online at Amazon|
 | Lighters | Draw your treasure map| Walmart | 4$ for 2| * in store|
-
-Total of about 230$ for accessories and costums
+|KCJ banner|all| KCJ | n/a | |
 
