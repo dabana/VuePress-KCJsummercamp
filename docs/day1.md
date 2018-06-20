@@ -37,8 +37,9 @@ Feed back of tests with KCJ team (18-06-2018):
 
 > Prepare also a necklace with Battery Back Plate
 
-## 3. The pirate's secret handshake (inspired from RTP Secret Handshake) / Maori-Pirate Choreography ( all inclusive )
-> INDOOR or OUTDOOR
+## 3. The pirate's secret handshake / Maori warrior dance
+
+> INDOOR or OUTDOOR: (inspired from RTP Secret Handshake) / Maori-Pirate Choreography
 
 A game for the pirates to bind with their team mates by inventing a secret hand shake. 
 1) The group is divided into two or three teams.

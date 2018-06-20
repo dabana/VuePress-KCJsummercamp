@@ -6,7 +6,8 @@ A pirate has to understand what value means and how to preserve it.
 
 ### Find precious goods (inspired by RTP Secret Mission)
 
-The captain asks the crew to bring back precious goods but does not tell exactly what he is looking for. 
+The captain asks the crew to bring back precious goods but does not tell exactly what he is looking for.
+
 He rejects or accepts objects based on a certain pattern the crew members have to discover.
 
 Examples of pattern: 
@@ -27,7 +28,7 @@ Examples of pattern:
 
 Items in a treasure are often very fragile. The crew members have to write a microbit program to detect if a treasure item has been miss-handled using the gyroscope readings. They pratice extreme treasure handling in a obstacle course.
 
-1) The program displays to information from the gyro with images and sound (use only x axis)
+1) The program displays the information from the gyro with images and sound (use only x axis)
 2) The microbit is attached to the Chest carrier
 3) We divided in two groups
 4) Kids transport the chest in the obstacle course two by two, each holding to one side of the chest

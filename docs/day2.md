@@ -25,12 +25,19 @@ In the center there is pile of objects to distribute in the different thematic a
 |     | 6. Once every team is done building there part of the lair, now is time to place the other objects and decorate the lair with objects from nature.|
 |6. Finaly, the kids design a pirate flag, and hang it to their lair|7. Finaly, the kids design a pirate flag, and hang it to their lair|
 
+```diff
+Feed back of tests with KCJ team (19-06-2018): 
++ Positive feedback of the activity
++ Take into acount extra time needed to decorate with natural elements
+```
+
 
 ## 2. Microbit activity
 
 - Prepare the MicroBit for fishing
 
 ## 3. It is time to go fishing
+
 > INDOORS and OUTDOORS
 
 Members of the crew program a microbit that detects magnetic fields and emit sound and light.
@@ -46,6 +53,14 @@ Material:
 3) Other hold the blanket firmly to the ground
 4) The goal is for the Fisherman to catch the fish with the help of the explorer
 5) A sound is generated when a fish is catch. There is a sound for the sharks and a sound for real fish. If the sound for the shark is heard, everybody has to run for safety.
+6) At first the fish are outside, after the fish are underneath and they pull the fish out
+7) Give precise instructions to find the fish over the surface.
+
+```diff
+Feed back of tests with KCJ team (19-06-2018): 
++ Positive feedback of the activity 
++ Introduce to give directions to locate fish as a follow up of the first exercice
+```
 
 Authors: D. Banville and B. Ferragut
 
