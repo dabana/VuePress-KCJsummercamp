@@ -13,7 +13,7 @@ With the help of technology and an old amnesiac pirate, the crew finds Barbe Ble
 
 ```diff
 Feed back of tests with KCJ team (21-06-2018): 
-+ Very good feedback. Include darkness and a candle light for 3 seconds.
++ Very good feedback. Include darkness and a candle light for 3 seconds to visualize maps.
 + Simplify the Map for the Kids
 ```
 

@@ -1,4 +1,3 @@
-
 # DAY 2: Create the perfect pirate lair
 
 Pirates need a place to relax and live a genuinly unproductive life.
