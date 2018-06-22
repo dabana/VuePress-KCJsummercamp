@@ -41,5 +41,6 @@
 | Foam balls | final battle: captain's heart | Walmart, Party expert | 30$ each, 60$ for 2 |Online at Walmart|
 | Headkerchiefs | final battle: team identifier | Party expert, Amazon | 30$ 2 packs of 12 |Online at Amazon|
 | Lighters | Draw your treasure map| Walmart | 4$ for 2| * in store|
-|KCJ banner|all| KCJ | n/a | |
+|KCJ banner|all| KCJ | n/a | 
+|Piquets de tente | Final battle| Canadian Tire|5$ a pack of 12 | in store|
 
