@@ -37,7 +37,7 @@ Feed back of tests with KCJ team (19-06-2018):
 - Prepare the MicroBit for fishing
 
 ### 2.1 Blocks Code
-![Blocls Code](./images/Day2-blocks.png)
+![Blocks Code](./images/Day2-blocks.png)
 ### 2.2 Text Code
 ```javascript
 let Note2 = 0

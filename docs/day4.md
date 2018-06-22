@@ -17,6 +17,32 @@ With the help of technology and an old amnesiac pirate, the crew finds Barbe Ble
 - One MicroBit with radio to find the are where the treasure is found - General
 - One MicroBit that will detect the with magnetism exact location - Concrete
 
+### 2.1 Blocks Code
+![Blocks Code](./images/Day4-blocks.png)
+### 2.2 Text Code
+> Emitter
+```javascript
+radio.setGroup(2)
+basic.forever(() => {
+    basic.showIcon(IconNames.Skull)
+    radio.sendNumber(0)
+})
+```
+>Reciever
+```javascript
+let Note2 = 0
+let intervale = 0
+radio.onDataPacketReceived( ({ signal, receivedNumber }) =>  {
+    intervale = Math.abs(signal)
+    Note2 = 20000 / intervale
+})
+radio.setGroup(1)
+basic.forever(() => {
+    music.playTone(Note2, intervale)
+    music.rest(intervale)
+})
+```
+
 ## 3. The treasure detector (inspired by Hot-Cold)
 
 The crew programs their microbit to send radio signals of various strenghts so their microbit can be used as a range finder. With the help of their map and their special treasure detector, they can now hunt down the treasure.

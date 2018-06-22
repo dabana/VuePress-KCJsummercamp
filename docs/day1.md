@@ -38,7 +38,7 @@ Feed back of tests with KCJ team (18-06-2018):
 > Prepare also a necklace with Battery Back Plate
 
 ### 2.1 Blocks Code
-![Blocls Code](./images/Day1-blocks.png)
+![Blocks Code](./images/Day1-blocks.png)
 ### 2.2 Text Code
 ```javascript
 input.onGesture(Gesture.Shake, () => {

@@ -25,7 +25,7 @@ Examples of pattern:
 - See how many coins are left in the coffin once the race end!
 
 ### 2.1 Blocks Code
-![Blocls Code](./images/Day3-blocks.png)
+![Blocks Code](./images/Day3-blocks.png)
 ### 2.2 Text Code
 ```javascript
 let intervale = 0
