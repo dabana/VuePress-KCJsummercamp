@@ -31,7 +31,6 @@ Feed back of tests with KCJ team (19-06-2018):
 + Take into acount extra time needed to decorate with natural elements
 ```
 
-
 ## 2. Microbit activity
 
 - Prepare the MicroBit for fishing
