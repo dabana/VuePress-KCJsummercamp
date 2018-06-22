@@ -18,6 +18,46 @@ The treasure chest can be opened only if every team member puts in his/her coin.
 1. A coin counter for opening the chest - We count 7 magnets - if we have them
 2. An alarm system to detect the opening of the chest
 
+### 2.1 Blocks Code
+![Blocks Code](./images/Day5-blocks.png)
+### 2.2 Text Code
+> Emitter
+```javascript
+let coins = 0
+input.onButtonPressed(Button.A, () => {
+    coins += -1
+})
+input.onButtonPressed(Button.AB, () => {
+    coins = 0
+})
+input.onButtonPressed(Button.B, () => {
+    coins += 1
+})
+coins = 0
+radio.setGroup(1)
+basic.forever(() => {
+    if (input.magneticForce(Dimension.Strength) > 400) {
+        basic.pause(500)
+        coins += 1
+    }
+    basic.showNumber(coins)
+    if (coins >= 7) {
+        radio.sendNumber(0)
+    }
+})
+```
+>Reciever
+```javascript
+let time = 0
+radio.onDataPacketReceived( ({ receivedNumber }) =>  {
+    for (let i = 0; i <= 30; i++) {
+        music.playTone(277 + i * 5, time)
+    }
+})
+radio.setGroup(1)
+time = 20
+```
+
 ## 3. The final battle: a complex capture the flag type of game
 
 The final battle is in three stages:
@@ -49,12 +89,3 @@ Authors: D. Banville and B. Ferragut
 > coins = power
 
 > coins =  colors
-
-=========================
-1. npm run docs:dev
-2. npm run docs:build
-3. surge docs/.vuepress/dist
-
-=========================
-
-[GITHUB](https://github.com/bernatferragut/VuePress-Projects)

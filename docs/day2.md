@@ -1,4 +1,3 @@
-
 # DAY 2: Create the perfect pirate lair
 
 Pirates need a place to relax and live a genuinly unproductive life.
@@ -31,10 +30,23 @@ Feed back of tests with KCJ team (19-06-2018):
 + Take into acount extra time needed to decorate with natural elements
 ```
 
-
 ## 2. Microbit activity
 
 - Prepare the MicroBit for fishing
+
+### 2.1 Blocks Code
+![Blocks Code](./images/Day2-blocks.png)
+### 2.2 Text Code
+```javascript
+let Note2 = 0
+let intervale = 0
+basic.forever(() => {
+    intervale = 20000 / input.magneticForce(Dimension.Strength)
+    Note2 = input.magneticForce(Dimension.Strength) * 3
+    music.playTone(Note2, intervale)
+    music.rest(intervale)
+})
+```
 
 ## 3. It is time to go fishing
 

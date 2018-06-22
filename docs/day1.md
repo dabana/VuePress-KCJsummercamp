@@ -37,6 +37,20 @@ Feed back of tests with KCJ team (18-06-2018):
 
 > Prepare also a necklace with Battery Back Plate
 
+### 2.1 Blocks Code
+![Blocks Code](./images/Day1-blocks.png)
+### 2.2 Text Code
+```javascript
+input.onGesture(Gesture.Shake, () => {
+    basic.showIcon(IconNames.Skull)
+})
+input.onButtonPressed(Button.A, () => {
+    basic.showIcon(IconNames.Square)
+})
+basic.showString("Pirate!")
+basic.showIcon(IconNames.Square)
+```
+
 ## 3. The pirate's secret handshake / Maori warrior dance
 
 > INDOOR or OUTDOOR: (inspired from RTP Secret Handshake) / Maori-Pirate Choreography

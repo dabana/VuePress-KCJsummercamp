@@ -18,22 +18,60 @@ Examples of pattern:
 
 > Create a small competition: The first who finds the Pattern wins Points
 
+```diff
+Feed back of tests with KCJ team (20-06-2018): 
++ Good feedback of the game. We will need to make a hughe pile of random items
++ Consider inlcude natural elements in the selection
++ Create a special place where old pirates deliver final decisions
+```
+
 ## 2. Microbit activity
 
 - Prepare the MicroBit for detecting tilt
 - We will have 1000 coins and each time we tilt too much we lose either 1 or 10 coins.
 - See how many coins are left in the coffin once the race end!
 
+### 2.1 Blocks Code
+![Blocks Code](./images/Day3-blocks.png)
+### 2.2 Text Code
+```javascript
+let intervale = 0
+let angle = 0
+let Pièces_dor = 0
+input.onButtonPressed(Button.AB, () => {
+    basic.showNumber(Pièces_dor)
+    basic.showIcon(IconNames.Skull)
+})
+Pièces_dor = 1000
+basic.showNumber(Pièces_dor)
+basic.showIcon(IconNames.Skull)
+basic.forever(() => {
+    angle = Math.abs(input.rotation(Rotation.Roll))
+    intervale = 5000 / angle
+    if (angle > 5) {
+        Pièces_dor += -1
+        music.beginMelody(music.builtInMelody(Melodies.BaDing), MelodyOptions.Once)
+        basic.pause(intervale)
+    }
+})
+```
+
 ## 3. Proper treasure handling
 
 Items in a treasure are often very fragile. The crew members have to write a microbit program to detect if a treasure item has been miss-handled using the gyroscope readings. They pratice extreme treasure handling in a obstacle course.
 
-1. We create 1 progam that contros the sound and another the points based on tilt.
+1. We create 1 progam that controls the sound interval and number of coins based on tilt.
 2. The Sound program emits two different sounds to tell how extreme your tilt is
 3. A great and difficult obstacle race is created where the participants have to 
 move, jump, go up and down at a good speed until reach the end.
 4. At the end of the race we see which participants conserve more coins in a linited amount of time.
 
+```diff
+Feed back of tests with KCJ team (20-06-2018): 
+- We originally coded with separation of concerns. We saw that the code had to be unified.
++ Now it's such a beautiful unified piece of code!
+```
+
 > A- Prepare two boxes with jack and switch to control the sound.
 
-> B- Prepare 2 Microbits to count the coins
+> B- Prepare 2 Microbits to count the coins and sound based on tilt.
