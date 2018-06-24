@@ -80,12 +80,4 @@ Authors: D. Banville and B. Ferragut
 1. Add visual representation of the logic in day 3
 2. Add a chart of the different values (pitch, interval and signal) for the range finders of day 2 and 4.
 
-## Misc
 
-> 7 FLAGS one COLOR 7 FLAGS another COLOR
-
-> Shipwreck in case we change groups
-
-> coins = power
-
-> coins =  colors
