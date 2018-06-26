@@ -66,6 +66,12 @@ radio.setGroup(1)
 time = 20
 ```
 
+```diff
+Feed back of tests with KCJ team (22-06-2018): 
+- Important: Mantain separated Magnets from Microbits
+- Because we used strong magnets, microbits were affected by the strong magnetic fields!
+```
+
 ## 3. The final battle: a complex capture the flag type of game
 
 The final battle is in three stages:
