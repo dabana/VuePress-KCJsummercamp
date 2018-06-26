@@ -19,7 +19,7 @@ A game for every pirate to share their names and nicknames.
 ```diff
 Feed back of tests with KCJ team (18-06-2018): 
 - Going backward breaks the rythm, makes the game too slow.
-+ Consider making the web first, then trying to do the game after throwing a ball (make it a memory game)
++ Consider making the web first, then throwing a ball (make it a memory game)
 + Untangling is a lot of fun
 ```
 ## 2. Microbit activity
@@ -29,12 +29,12 @@ Feed back of tests with KCJ team (18-06-2018):
 > mainly INDOORS or OUTDOORS in shaded area
 
 ```diff
-TODAY WE LEARN:
++ TODAY WE LEARN:
 1. What is a Microbit? 
 2. Similarities between Microbit and Pirates (humans)
 3. Makecode Interface and menus to program in Visual Code 
 4. How to send a program from a PC to a Microbit
-5. Play with a simple Microbit first program
+5. Play with a simple Microbit first **program**
 ```
 
 1. Create a 5x5 pixels animated avatar
@@ -62,7 +62,7 @@ basic.showString("Pirate!")
 basic.showIcon(IconNames.Square)
 ```
 
-## 3. The pirate's secret handshake / Maori warrior dance
+## 3. The Maori Warrior Dance / or Secret Handshake
 
 > INDOOR or OUTDOOR: (inspired from RTP Secret Handshake) / Maori-Pirate Choreography
 
@@ -75,7 +75,7 @@ A game for the pirates to bind with their team mates by inventing a secret hand 
 ```diff
 Feed back of tests with the KCJ team (18-06-2018):
 1. Make the kids invent a dance move based on a 2 to 3 syllable word
-2. Have them decompose the danse move into 2 to 3 part, one for each syllable so we can keep the rythm.
+2. Decompose the danse into 2 to 3 parts, one for each syllable to keep the rythm.
 ``` 
 
 Authors: B. Feragut and D. Banville
