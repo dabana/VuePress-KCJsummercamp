@@ -18,7 +18,7 @@ The treasure chest can be opened only if every team member puts in his/her coin.
 + TODAY WE LEARN:
 1. How to we use magnetism to count coins?
 2. How to use conditionals to affect sound
-3. How to create and alarm sound
+3. How to create a sound alarm
 4. Play with the magnetic counter and see how affects the sound
 ```
 
