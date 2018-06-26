@@ -10,9 +10,17 @@ There is a lot to do to get ready for the battle. First the team has to build an
 
 ## 2. Microbit activity
 
-### Add technological security features to your treasure chest
+> Add technological security features to your treasure chest
 
 The treasure chest can be opened only if every team member puts in his/her coin. The chest is also equiped with an alarm system that warns the team if it has been opened. The team has to write two different microbit programs to achieve these functionnality.
+
+```diff
++ TODAY WE LEARN:
+1. How to we use magnetism to count coins?
+2. How to use conditionals to affect sound
+3. How to create and alarm sound
+4. Play with the magnetic counter and see how affects the sound
+```
 
 > Program:
 1. A coin counter for opening the chest - We count 7 magnets - if we have them

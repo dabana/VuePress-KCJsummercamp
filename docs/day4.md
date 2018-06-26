@@ -19,9 +19,16 @@ Feed back of tests with KCJ team (21-06-2018):
 
 ## 2. Microbit activity 
 
-- Check the radio distance WIP
-- One MicroBit with radio to find the are where the treasure is found - General
-- One MicroBit that will detect the with magnetism exact location - Concrete
+> One MicroBit with radio to find the are where the treasure is found - General
+
+```diff
++ TODAY WE LEARN:
+1. What is a radio frequency?
+2. How can we relate radio and sound?
+3. What is a conditional in code?
+4. What is a variable in code?
+5. Play with the radio program and see how affects the sound.
+```
 
 ### 2.1 Blocks Code
 ![Blocks Code](./images/Day4-blocks.png)

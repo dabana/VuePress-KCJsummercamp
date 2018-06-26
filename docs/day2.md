@@ -32,7 +32,16 @@ Feed back of tests with KCJ team (19-06-2018):
 
 ## 2. Microbit activity
 
-- Prepare the MicroBit for fishing
+> Prepare the MicroBit for fishing
+
+```diff
++ TODAY WE LEARN:
+1. What is magnetism? 
+2. What is an interval in time and what is pitch in sound?
+3. How are they interelated?
+4. How a magnetic detector would work?
+5. Play with a first program to detect magetism
+```
 
 ### 2.1 Blocks Code
 ![Blocks Code](./images/Day2-blocks.png)

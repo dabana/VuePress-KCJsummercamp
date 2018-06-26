@@ -27,9 +27,19 @@ Feed back of tests with KCJ team (20-06-2018):
 
 ## 2. Microbit activity
 
-- Prepare the MicroBit for detecting tilt
-- We will have 1000 coins and each time we tilt too much we lose either 1 or 10 coins.
-- See how many coins are left in the coffin once the race end!
+> Prepare the MicroBit for tilt detection based on the roll signal
+
+We have 1000 coins and each time we tilt too much we lose either 1 or 10 coins. See how many coins are left in the coffin once the race end!
+
+```diff
++ TODAY WE LEARN:
+1. What is tilt? ( angles ) 
+2. How can we relate tilt and sound?
+3. What is a conditional in code?
+4. What is a variable in code?
+5. How can we create a coins counter?
+6. Play with the tilt programs and see how affects the sound.
+```
 
 ### 2.1 Blocks Code
 ![Blocks Code](./images/Day3-blocks.png)
