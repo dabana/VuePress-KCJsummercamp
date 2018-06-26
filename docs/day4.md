@@ -71,3 +71,5 @@ Feed back of tests with KCJ team (21-06-2018):
 + Amplify the sound
 ```
 
+> Authors: D.Banville and B.Ferragut
+

@@ -10,5 +10,5 @@ features:
   details: An imaginary adventure in the world of Pirates
 - title: 1 great adventure 
   details: An adventure looking for a treasure
-footer: MIT Licensed | 2018-KCJ-Bernat Ferragut / David Banville / Ross Hoss / Mélanie Rizk
+footer: MIT Licensed | 2018-KCJ-Bernat Ferragut / David Banville / Ross Hodess / Mélanie Rizk
 ---

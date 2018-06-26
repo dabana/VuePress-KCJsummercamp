@@ -83,9 +83,9 @@ Feed back of tests with KCJ team (19-06-2018):
 + Introduce to give directions to locate fish as a follow up of the first exercice
 ```
 
-Authors: D. Banville and B. Ferragut
-
 ### Introduction to the score board
 
 Throughout the week, teams of pirate are granted "coins" for their success in the various games.
+
+> Authors: D.Banville and B.Ferragut
 

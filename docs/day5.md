@@ -81,9 +81,4 @@ The final battle is in three stages:
 6. The winner of the round is the team that successfully brings the captain's heart back to their base. The round is a draw if the heart is successfully intercepted by the defenders or if it is dropped.
 
 
-Authors: D. Banville and B. Ferragut
-
-## TODO
-
-1. Add visual representation of the logic in day 3
-2. Add a chart of the different values (pitch, interval and signal) for the range finders of day 2 and 4
+> Authors: D.Banville and B.Ferragut

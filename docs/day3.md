@@ -82,6 +82,4 @@ Feed back of tests with KCJ team (20-06-2018):
 + Now it's such a beautiful unified piece of code!
 ```
 
-> A- Prepare two boxes with jack and switch to control the sound.
-
-> B- Prepare 2 Microbits to count the coins and sound based on tilt.
+> Authors: D.Banville and B.Ferragut
