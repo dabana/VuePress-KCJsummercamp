@@ -62,6 +62,11 @@ basic.showString("Pirate!")
 basic.showIcon(IconNames.Square)
 ```
 
+## 2B. Art:Bit activity - code for begginers - Image creation
+
+1. Create their own nickname in Art:Bit
+2. Create their own symbol in Art:Bit
+
 ## 3. The Maori Warrior Dance / or Secret Handshake
 
 > INDOOR or OUTDOOR: (inspired from RTP Secret Handshake) / Maori-Pirate Choreography

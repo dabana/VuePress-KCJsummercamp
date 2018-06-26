@@ -66,6 +66,10 @@ basic.forever(() => {
 })
 ```
 
+## 2B. Art:Bit activity - code for begginers - Tilt sensor
+
+1. They create their own Tilt animation in Art:Bit 
+
 ## 3. Proper treasure handling
 
 Items in a treasure are often very fragile. The crew members have to write a microbit program to detect if a treasure item has been miss-handled using the gyroscope readings. They pratice extreme treasure handling in a obstacle course.

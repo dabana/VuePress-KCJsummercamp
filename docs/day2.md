@@ -57,6 +57,10 @@ basic.forever(() => {
 })
 ```
 
+## 2B. Art:Bit activity - code for begginers - Animations
+
+1. They create their own Fishing animation in Art:Bit 
+
 ## 3. It is time to go fishing
 
 > INDOORS and OUTDOORS
