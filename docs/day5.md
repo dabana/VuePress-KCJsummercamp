@@ -78,6 +78,4 @@ Authors: D. Banville and B. Ferragut
 ## TODO
 
 1. Add visual representation of the logic in day 3
-2. Add a chart of the different values (pitch, interval and signal) for the range finders of day 2 and 4.
-
-
+2. Add a chart of the different values (pitch, interval and signal) for the range finders of day 2 and 4
