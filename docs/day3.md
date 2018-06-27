@@ -66,9 +66,19 @@ basic.forever(() => {
 })
 ```
 
-## 2B. Art:Bit activity - code for begginers - Tilt sensor
+## 2b. Artbit - begginers - tilt sensor
 
-1. They create their own Tilt animation in Art:Bit 
+```diff
++ TODAY WE LEARN:
+1. What is tilt? ( angles )
+2. How can we relate tilt and an image?
+3. Play with the tilt program and see how affects the pixel art image.
+```
+
+1. Create their own Tilt animation in Artbit. 
+
+![ArtBit Code](./images/ArtBit/Day3.png)
+
 
 ## 3. Proper treasure handling
 

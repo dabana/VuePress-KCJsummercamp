@@ -56,11 +56,20 @@ basic.forever(() => {
 })
 ```
 
-## 2B. Art:Bit activity - code for begginers - Messages
+## 2b. Artbit - begginers - messages
 
-1. They create their own Message send in Art:Bit
+```diff
++ TODAY WE LEARN:
+1. What is a message?  
+2. How can send messages?
+3. Play with the message program and see how affects the pixel art image.
+```
 
-## 3. The treasure detector (inspired by Hot-Cold)
+1. Create their own Message send in Artbit - We send a Pirate coin!
+
+![ArtBit Code](./images/ArtBit/Day4.jpg)
+
+## 3. The treasure detector
 
 The crew programs their microbit to send radio signals of various strenghts so their microbit can be used as a range finder. With the help of their map and their special treasure detector, they can now hunt down the treasure.
 

@@ -62,12 +62,23 @@ basic.showString("Pirate!")
 basic.showIcon(IconNames.Square)
 ```
 
-## 2B. Art:Bit activity - code for begginers - Image creation
+## 2b. Artbit - begginers - Image creation
 
-1. Create their own nickname in Art:Bit
-2. Create their own symbol in Art:Bit
+```diff
++ TODAY WE LEARN:
+1. What is a Microbit? 
+2. Similarities between Microbit and Pirates (humans)
+3. ArtBit Interface 
+4. How to send a program from a PC to a Microbit
+5. Play with a simple Microbit first **program**
+```
 
-## 3. The Maori Warrior Dance / or Secret Handshake
+1. Create their own nickname in Artbit
+2. Create their own symbol in Artbit
+
+![ArtBit Code](./images/ArtBit/Day-1.png)
+
+## 3. The pirate dance - secret handshake
 
 > INDOOR or OUTDOOR: (inspired from RTP Secret Handshake) / Maori-Pirate Choreography
 

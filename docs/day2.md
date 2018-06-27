@@ -57,11 +57,21 @@ basic.forever(() => {
 })
 ```
 
-## 2B. Art:Bit activity - code for begginers - Animations
+## 2b. Artbit - begginers - animations
 
-1. They create their own Fishing animation in Art:Bit 
+```diff
++ TODAY WE LEARN:
+1. How to create pixel art animations
+2. What is a function block
+3. Play with a simple Microbit first **animation**
+```
 
-## 3. It is time to go fishing
+1. Create their own Fishing animation in Artbit 
+
+![ArtBit Code](./images/ArtBit/Day2.png)
+
+
+## 3. It's time to go fishing
 
 > INDOORS and OUTDOORS
 

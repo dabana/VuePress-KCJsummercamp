@@ -72,11 +72,11 @@ Feed back of tests with KCJ team (22-06-2018):
 - Because we used strong magnets, microbits were affected by the strong magnetic fields!
 ```
 
-## 2B. Art:Bit activity - code for begginers
+## 2b. Artbit - code for begginers
 
-1. The last day there is no Art:Bit activity, just Capture the Flag game preparation.
+1. No Artbit activity, just Capture the Flag game preparation.
 
-## 3. The final battle: a complex capture the flag type of game
+## 3. Final battle:  capture the flag game
 
 The final battle is in three stages:
 
