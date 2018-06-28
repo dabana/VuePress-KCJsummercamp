@@ -99,7 +99,9 @@ Feed back of tests with the KCJ team (18-06-2018):
 1. Read Pirate Books for kiddos
 2. Paint your Pirate for Artists
 
-> Authors: B.Ferragut and D.Banville
+> Authors: B.Ferragut and D.Banville - June 2018
+
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved
 
 
 

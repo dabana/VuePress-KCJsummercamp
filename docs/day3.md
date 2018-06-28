@@ -96,4 +96,6 @@ Feed back of tests with KCJ team (20-06-2018):
 + Now it's such a beautiful unified piece of code!
 ```
 
-> Authors: D.Banville and B.Ferragut
+> Authors: B.Ferragut and D.Banville - June 2018
+
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved

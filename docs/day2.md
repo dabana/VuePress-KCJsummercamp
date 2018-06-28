@@ -101,5 +101,7 @@ Feed back of tests with KCJ team (19-06-2018):
 
 Throughout the week, teams of pirate are granted "coins" for their success in the various games.
 
-> Authors: D.Banville and B.Ferragut
+> Authors: B.Ferragut and D.Banville - June 2018
+
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved
 

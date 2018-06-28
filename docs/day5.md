@@ -91,4 +91,6 @@ The final battle is in three stages:
 6. The winner of the round is the team that successfully brings the captain's heart back to their base. The round is a draw if the heart is successfully intercepted by the defenders or if it is dropped.
 
 
-> Authors: D.Banville and B.Ferragut
+> Authors: B.Ferragut and D.Banville - June 2018
+
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved
