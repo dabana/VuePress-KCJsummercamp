@@ -19,9 +19,16 @@ Feed back of tests with KCJ team (21-06-2018):
 
 ## 2. Microbit activity 
 
-- Check the radio distance WIP
-- One MicroBit with radio to find the are where the treasure is found - General
-- One MicroBit that will detect the with magnetism exact location - Concrete
+> One MicroBit with radio to find the are where the treasure is found - General
+
+```diff
++ TODAY WE LEARN:
+1. What is a radio frequency?
+2. How can we relate radio and sound?
+3. What is a conditional in code?
+4. What is a variable in code?
+5. Play with the radio program and see how affects the sound.
+```
 
 ### 2.1 Blocks Code
 ![Blocks Code](./images/Day4-blocks.png)
@@ -49,7 +56,20 @@ basic.forever(() => {
 })
 ```
 
-## 3. The treasure detector (inspired by Hot-Cold)
+## 2b. Artbit - begginers - messages
+
+```diff
++ TODAY WE LEARN:
+1. What is a message?  
+2. How can send messages?
+3. Play with the message program and see how affects the pixel art image.
+```
+
+1. Create their own Message send in Artbit - We send a Pirate coin!
+
+![ArtBit Code](./images/ArtBit/Day4.jpg)
+
+## 3. The treasure detector
 
 The crew programs their microbit to send radio signals of various strenghts so their microbit can be used as a range finder. With the help of their map and their special treasure detector, they can now hunt down the treasure.
 
@@ -63,4 +83,8 @@ Feed back of tests with KCJ team (21-06-2018):
 + Option of giving many Microbits with different sounds could be confusing.
 + Amplify the sound
 ```
+
+> Authors: B.Ferragut and D.Banville - June 2018
+
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved
 

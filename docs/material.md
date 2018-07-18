@@ -44,3 +44,8 @@
 |KCJ banner|all| KCJ | n/a | 
 |Piquets de tente | Final battle| Canadian Tire|5$ a pack of 12 | in store|
 
+> Authors: B.Ferragut and D.Banville - June 2018
+
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved
+
+

@@ -1,30 +1,41 @@
-# DAY 1: Create your pirate identity and join a crew
+# DAY 1: Create your pirate identity
 
 Pirates get to know each other and learn to bond as a team.
 
 ## 1. Introductory unplugged activity 
 
 ### The pirate's Web (inspired by RTP Hero's Web)
+
 > INDOOR or OUTDOOR
 
 A game for every pirate to share their names and nicknames.
 
 1) Give a sticker to each kid so they can write their names and stick them on there t-shirt
 2) First Round: Pass a ball around and tell the name of the person you pass the ball to. 
-3) Second round: Instead of a ball, pass around a bundle of string. Create a tangle of strings, then pass the bundle backward to untangle.
-4) Third Round: Use your Pirate nicknames. Try a double tangle with names and nicknames... too complex?
+3) Second round: Pass around a bundle of string. Create a tangle of strings, then pass the bundle backward to untangle.
+4) Third Round: Use your Pirate nicknames.
 5) Ask questions on how complicated looked the tangle, etc.
 
 ```diff
 Feed back of tests with KCJ team (18-06-2018): 
 - Going backward breaks the rythm, makes the game too slow.
-+ Consider making the web first, then trying to do the game after throwing a ball (make it a memory game)
++ Consider making the web first, then throwing a ball (make it a memory game)
 + Untangling is a lot of fun
 ```
 ## 2. Microbit activity
 
 ### The iPatch: an electronic eye patch for cool pirates
+
 > mainly INDOORS or OUTDOORS in shaded area
+
+```diff
++ TODAY WE LEARN:
+1. What is a Microbit? 
+2. Similarities between Microbit and Pirates (humans)
+3. Makecode Interface and menus to program in Visual Code 
+4. How to send a program from a PC to a Microbit
+5. Play with a simple Microbit first **program**
+```
 
 1. Create a 5x5 pixels animated avatar
 2. Write a program to display it on the microbit LED array
@@ -51,7 +62,23 @@ basic.showString("Pirate!")
 basic.showIcon(IconNames.Square)
 ```
 
-## 3. The pirate's secret handshake / Maori warrior dance
+## 2b. Artbit - begginers - Image creation
+
+```diff
++ TODAY WE LEARN:
+1. What is a Microbit? 
+2. Similarities between Microbit and Pirates (humans)
+3. ArtBit Interface 
+4. How to send a program from a PC to a Microbit
+5. Play with a simple Microbit first **program**
+```
+
+1. Create their own nickname in Artbit
+2. Create their own symbol in Artbit
+
+![ArtBit Code](./images/ArtBit/Day-1.png)
+
+## 3. The pirate dance - secret handshake
 
 > INDOOR or OUTDOOR: (inspired from RTP Secret Handshake) / Maori-Pirate Choreography
 
@@ -64,13 +91,17 @@ A game for the pirates to bind with their team mates by inventing a secret hand 
 ```diff
 Feed back of tests with the KCJ team (18-06-2018):
 1. Make the kids invent a dance move based on a 2 to 3 syllable word
-2. Have them decompose the danse move into 2 to 3 part, one for each syllable so we can keep the rythm.
+2. Decompose the danse into 2 to 3 parts, one for each syllable to keep the rythm.
 ``` 
-
-Authors: B. Feragut and D. Banville
 
 ### Extra Activities
 
 1. Read Pirate Books for kiddos
 2. Paint your Pirate for Artists
+
+> Authors: B.Ferragut and D.Banville - June 2018
+
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved
+
+
 

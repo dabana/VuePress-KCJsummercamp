@@ -10,9 +10,17 @@ There is a lot to do to get ready for the battle. First the team has to build an
 
 ## 2. Microbit activity
 
-### Add technological security features to your treasure chest
+> Add technological security features to your treasure chest
 
 The treasure chest can be opened only if every team member puts in his/her coin. The chest is also equiped with an alarm system that warns the team if it has been opened. The team has to write two different microbit programs to achieve these functionnality.
+
+```diff
++ TODAY WE LEARN:
+1. How to we use magnetism to count coins?
+2. How to use conditionals to affect sound
+3. How to create a sound alarm
+4. Play with the magnetic counter and see how affects the sound
+```
 
 > Program:
 1. A coin counter for opening the chest - We count 7 magnets - if we have them
@@ -58,7 +66,17 @@ radio.setGroup(1)
 time = 20
 ```
 
-## 3. The final battle: a complex capture the flag type of game
+```diff
+Feed back of tests with KCJ team (22-06-2018): 
+- Important: Mantain separated Magnets from Microbits
+- Because we used strong magnets, microbits were affected by the strong magnetic fields!
+```
+
+## 2b. Artbit - code for begginers
+
+1. No Artbit activity, just Capture the Flag game preparation.
+
+## 3. Final battle:  capture the flag game
 
 The final battle is in three stages:
 
@@ -73,19 +91,6 @@ The final battle is in three stages:
 6. The winner of the round is the team that successfully brings the captain's heart back to their base. The round is a draw if the heart is successfully intercepted by the defenders or if it is dropped.
 
 
-Authors: D. Banville and B. Ferragut
+> Authors: B.Ferragut and D.Banville - June 2018
 
-## TODO
-
-1. Add visual representation of the logic in day 3
-2. Add a chart of the different values (pitch, interval and signal) for the range finders of day 2 and 4.
-
-## Misc
-
-> 7 FLAGS one COLOR 7 FLAGS another COLOR
-
-> Shipwreck in case we change groups
-
-> coins = power
-
-> coins =  colors
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved

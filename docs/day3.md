@@ -27,9 +27,19 @@ Feed back of tests with KCJ team (20-06-2018):
 
 ## 2. Microbit activity
 
-- Prepare the MicroBit for detecting tilt
-- We will have 1000 coins and each time we tilt too much we lose either 1 or 10 coins.
-- See how many coins are left in the coffin once the race end!
+> Prepare the MicroBit for tilt detection based on the roll signal
+
+We have 1000 coins and each time we tilt too much we lose either 1 or 10 coins. See how many coins are left in the coffin once the race end!
+
+```diff
++ TODAY WE LEARN:
+1. What is tilt? ( angles ) 
+2. How can we relate tilt and sound?
+3. What is a conditional in code?
+4. What is a variable in code?
+5. How can we create a coins counter?
+6. Play with the tilt programs and see how affects the sound.
+```
 
 ### 2.1 Blocks Code
 ![Blocks Code](./images/Day3-blocks.png)
@@ -56,6 +66,20 @@ basic.forever(() => {
 })
 ```
 
+## 2b. Artbit - begginers - tilt sensor
+
+```diff
++ TODAY WE LEARN:
+1. What is tilt? ( angles )
+2. How can we relate tilt and an image?
+3. Play with the tilt program and see how affects the pixel art image.
+```
+
+1. Create their own Tilt animation in Artbit. 
+
+![ArtBit Code](./images/ArtBit/Day3.png)
+
+
 ## 3. Proper treasure handling
 
 Items in a treasure are often very fragile. The crew members have to write a microbit program to detect if a treasure item has been miss-handled using the gyroscope readings. They pratice extreme treasure handling in a obstacle course.
@@ -72,6 +96,6 @@ Feed back of tests with KCJ team (20-06-2018):
 + Now it's such a beautiful unified piece of code!
 ```
 
-> A- Prepare two boxes with jack and switch to control the sound.
+> Authors: B.Ferragut and D.Banville - June 2018
 
-> B- Prepare 2 Microbits to count the coins and sound based on tilt.
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved

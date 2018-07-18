@@ -32,7 +32,16 @@ Feed back of tests with KCJ team (19-06-2018):
 
 ## 2. Microbit activity
 
-- Prepare the MicroBit for fishing
+> Prepare the MicroBit for fishing
+
+```diff
++ TODAY WE LEARN:
+1. What is magnetism? 
+2. What is an interval in time and what is pitch in sound?
+3. How are they interelated?
+4. How a magnetic detector would work?
+5. Play with a first program to detect magetism
+```
 
 ### 2.1 Blocks Code
 ![Blocks Code](./images/Day2-blocks.png)
@@ -48,7 +57,21 @@ basic.forever(() => {
 })
 ```
 
-## 3. It is time to go fishing
+## 2b. Artbit - begginers - animations
+
+```diff
++ TODAY WE LEARN:
+1. How to create pixel art animations
+2. What is a function block
+3. Play with a simple Microbit first **animation**
+```
+
+1. Create their own Fishing animation in Artbit 
+
+![ArtBit Code](./images/ArtBit/Day2.png)
+
+
+## 3. It's time to go fishing
 
 > INDOORS and OUTDOORS
 
@@ -74,9 +97,11 @@ Feed back of tests with KCJ team (19-06-2018):
 + Introduce to give directions to locate fish as a follow up of the first exercice
 ```
 
-Authors: D. Banville and B. Ferragut
-
 ### Introduction to the score board
 
 Throughout the week, teams of pirate are granted "coins" for their success in the various games.
+
+> Authors: B.Ferragut and D.Banville - June 2018
+
+© 2012 - 2018 Kids Code Jeunesse | All Right Reserved
 
