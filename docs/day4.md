@@ -89,31 +89,34 @@ Feed back of tests with KCJ team (21-06-2018):
 ### Ages: 5-7
 1. **Unplugged Activities**
 
-We end up drawing a treasure chest directly so they could enter easily to the game. 
+We introduced kids to what is a map and its symbols. The idea idea was that they start to understand what a map is, how is an abstraction of the reality from the top view and how easy is to identify objects on it. The results were fun and interesting.
 
 2. **Coding**
 
-They continued with their animations but we tried to introduce the concept of tilt so they could understand how the game they were going to play worked. This first concept to angles and the day before to what is a magnet was leading to most of them to their first contact with science at such an early age.
+They continued with their animations. With the first batch of kids that used microbits music was added to the mix. With the second batch of the kids artbit did not allowed us to add music and we experimented with some panning camera moves.
 
 3. **Taking the code out**
 
-This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finnally they countd how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
+This game worked really well. This time we were calling them first one group and when finished the second one to mantain everyody busy. The little kids they loved to go out with the beeping microbit in search of the treasure. The kids had to find a KEY and a SKULL representing the treasure to have success. With a little help and the detectors they very well accomplished it!.
 
-> OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future. David and his Electrical Engineering skills were critical to accomplish all these fantastic gadgets. Thank you Kemakoo!
+Once the tresure was found we observed that the sharing of coins gave some behaviour issues. Gladly we found that kids are good at sharing when thing are well explained.
 
+> OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future. David and his Electrical Engineering skills were critical to accomplish all these fantastic gadgets. 
 
 ### Ages: 7-12
 1. **Unplugged Activities**
 
-The game about dividing a pile into two different piles ( work/party) worked well. Time constraints did not allow to spend more energy into the building of the structures. With more time, this game, can be a lot of fun and creativity.
+The memory game was a success. Both teams had fun memorizing the map and localizing the treasure. This is a game that we recommend alongside with the architect and the secret object as unplugged activities.
 
 2. **Coding**
 
-We had the opportunity to start explainig how music is based on numbers with base 440Hz. Here we set the tone for this age to introduce variables and sound. Some of them could start creating their own music and adding the music to their first stories and animations. We had a lot of fun with this activity and we opened the door to the relationship between magnetism and sound - to science!. 
+In this class we opened the class to experimentation in radio communication. We teach them the basics about how to sens a message and after that we designate some 'leaders' in the class to create a series of images and sounds along all the microbits through sending messages in different channels. We enjoyed the game a lot, we would just recommend to choose the 'right' leaders and maybe create a very well defined objective so they have to take less decissions and keep focus on the activity.
 
 3. **Taking the code out**
 
-We proceeded with the same way than the younger ones and made them come by batches of 2. They really enjoyed the fishing activity and now they started to understand how the microbit was programmed to detect the magnetism and affed the sound!
+This game worked well. 
+
+The fact of giving them the responsability was a great idea. From that point on they were on their own and they had to cooperate all together to accomplish the objectives. Very interesting dynamics and gave us the teaching of giving as soon as posible to the kids power and responsability on the problem solving process.
 
 > OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future. David and his Electrical Engineering skills were critical to accomplish all these fantastic gadgets. Thank you Kemakoo!
 

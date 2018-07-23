@@ -121,11 +121,11 @@ The game about dividing a pile into two different piles ( work/party) worked wel
 
 2. **Coding**
 
-We had the opportunity to start explainig how music is based on numbers with base 440Hz. Here we set the tone for this age to introduce variables and sound. Some of them could start creating their own music and adding the music to their first stories and animations. We had a lor of fun with this acticity and we opened the door rhe relationship between magnetima and sound - to science. 
+We had the opportunity to start explainig what pitch and roll are. how they can be detected through the internal gyroscope the microbit has and how can affect the sound we had been playing the day before. It was a very fun class where they used variables, conditionals and some physics. A great combo!
 
 3. **Taking the code out**
 
-We proceeded with the same way than the younger ones and made them come by batches of 2. They really enjoyed the fishing activity and now they started to understand how the microbit was programmed to detect the magnetism and affed the sound!
+This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finnally they countd how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
 
 > OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future. David and his Electrical Engineering skills were critical to accomplish all these fantastic gadgets. Thank you Kemakoo!
 

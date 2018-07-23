@@ -102,7 +102,7 @@ Feed back of tests with KCJ team (19-06-2018):
 ### Ages: 5-7
 1. **Unplugged Activities**
 
-The game about dividing a pile into two different piles ( work/party) worked well. Time constraints did not allow to spend more energy into the building of the structures. 
+The game about dividing a pile into two different piles ( work/party) worked well. Time constraints did not allow to spend more energy into the building of the structures. They started drawing different sorts of fish that were later used for the fishing activity.
 
 2. **Coding**
 

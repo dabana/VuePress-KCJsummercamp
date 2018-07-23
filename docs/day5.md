@@ -92,6 +92,7 @@ The final battle is in three stages:
 
 ## 4. Conclusions
 
+// Please, David you can follow here.
 
 ## 5. General Conclusions
 
