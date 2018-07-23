@@ -99,6 +99,40 @@ Feed back of tests with KCJ team (19-06-2018):
 
 ## 4. Conclusions 
 
+### Ages: 5-7
+1. **Unplugged Activities**
+
+The game about dividing a pile into two different piles ( work/party) worked well. Time constraints did not allow to spend more energy into the building of the structures. 
+
+2. **Coding**
+
+With ArtBit we designed a simple story. A simple ship shape that is bombed and sinked. This simple secuential animation opened the eyes to the possibility of telling stories or to make simple animations. Ideally we noted that to really have real power telling stories the artbit should change or add some individual timelines for each of the functions. The Process with small kids was: 
+
+- Start deawing the idea ( ex: a ship )
+- Tell a story with that idea ( ship animation )
+- Give them freedom to add their own personality
+
+3. **Taking the code out**
+
+At the same time they were creating their animations. A second and third person were preparing the fishing game. They wer called in pairs and one was selecting the fish with the magnet detector and the second one was fishing. Then they changed roles. 
+
+> DIFFICULTIES: It was important to be opened to change plans fast because they tend to have a really short span of attention. The fishing game was and it's a great idea but in small batches. Make then play in turns gave us more control to the overall operation.
+
+
+### Ages: 7-12
+1. **Unplugged Activities**
+
+The game about dividing a pile into two different piles ( work/party) worked well. Time constraints did not allow to spend more energy into the building of the structures. With more time, this game, can be a lot of fun and creativity.
+
+2. **Coding**
+
+We had the opportunity to start explainig how music is based on numbers with base 440Hz. Here we set the tone for this age to introduce variables and sound. Some of them could start creating their own music and adding the music to their first stories and animations. We had a lor of fun with this acticity and we opened the door rhe relationship between magnetima and sound - to science. 
+
+3. **Taking the code out**
+
+We proceeded with the same way than the younger ones and made them come by batches of 2. They really enjoyed the fishing activity and now they started to understand how the microbit was programmed to detect the magnetism and affed the sound!
+
+> OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future.
 
 
 > Authors: B.Ferragut and D.Banville - June 2018
