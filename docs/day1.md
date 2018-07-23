@@ -101,6 +101,8 @@ Feed back of tests with the KCJ team (18-06-2018):
 
 At this age the presentations have to be really simple. Just with a round with the ball is enough to do a quick introduction. The rope game was interesting but you have to have the right width and start from really close to have success. At this age the simpler the better.
 
+The HAKA warrior dance was a success with big and small kids. This wrrior dance bonds and give energy whenever you need it. Please ask us the real moves :)
+
 2. **Coding**
 
 We have seen that ArtBit was a better option than microbit at early age becaue of it's simplicity and faster interaction. Just the fact of seeying live what you are doing makes a big difference. We started designing very simple pixel art drawings and with an introduction to buttons and sensors like onshake.
@@ -116,6 +118,8 @@ The pirate I-Patch activity was perfect for this age. Because of it's simplicity
 1. **Unplugged Activities**
 
 The passing the ball, hitting with the ball and sharing the rope in a web games were good ways to start to know eachother and break the ice.
+
+The HAKA warrior dance was a success with big and small kids. This wrrior dance bonds and give energy whenever you need it. Please ask us the real moves :)
 
 2. **Coding**
 

@@ -101,21 +101,17 @@ Feed back of tests with KCJ team (20-06-2018):
 ### Ages: 5-7
 1. **Unplugged Activities**
 
-The game about dividing a pile into two different piles ( work/party) worked well. Time constraints did not allow to spend more energy into the building of the structures. 
+We end up drawing a treasure chest directly so they could enter easily to the game. 
 
 2. **Coding**
 
-With ArtBit we designed a simple story. A simple ship shape that is bombed and sinked. This simple secuential animation opened the eyes to the possibility of telling stories or to make simple animations. Ideally we noted that to really have real power telling stories the artbit should change or add some individual timelines for each of the functions. The Process with small kids was: 
-
-- Start deawing the idea ( ex: a ship )
-- Tell a story with that idea ( ship animation )
-- Give them freedom to add their own personality
+They continued with their animations but we tried to introduce the concept of tilt so they could understand how the game they were going to play worked. This first concept to angles and the day before to what is a magnet was leading to most of them to their first contact with science at such an early age.
 
 3. **Taking the code out**
 
-At the same time they were creating their animations. A second and third person were preparing the fishing game. They wer called in pairs and one was selecting the fish with the magnet detector and the second one was fishing. Then they changed roles. 
+This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finnally they countd how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
 
-> DIFFICULTIES: It was important to be opened to change plans fast because they tend to have a really short span of attention. The fishing game was and it's a great idea but in small batches. Make then play in turns gave us more control to the overall operation.
+> OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future. David and his Electrical Engineering skills were critical to accomplish all these fantastic gadgets. Thank you Kemakoo!
 
 
 ### Ages: 7-12
