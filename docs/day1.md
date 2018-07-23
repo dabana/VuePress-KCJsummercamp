@@ -134,7 +134,7 @@ The Pirate I-Patch activity is perfect also for this game. Within the low-floor 
 
 
 
-> Authors: B.Ferragut and D.Banville - June 2018
+Authors: B.Ferragut and D.Banville - June 2018
 
 © 2012 - 2018 Kids Code Jeunesse | All Right Reserved
 

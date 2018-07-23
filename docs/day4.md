@@ -86,9 +86,40 @@ Feed back of tests with KCJ team (21-06-2018):
 
 ## 4. Conclusions 
 
+### Ages: 5-7
+1. **Unplugged Activities**
+
+We end up drawing a treasure chest directly so they could enter easily to the game. 
+
+2. **Coding**
+
+They continued with their animations but we tried to introduce the concept of tilt so they could understand how the game they were going to play worked. This first concept to angles and the day before to what is a magnet was leading to most of them to their first contact with science at such an early age.
+
+3. **Taking the code out**
+
+This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finnally they countd how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
+
+> OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future. David and his Electrical Engineering skills were critical to accomplish all these fantastic gadgets. Thank you Kemakoo!
 
 
-> Authors: B.Ferragut and D.Banville - June 2018
+### Ages: 7-12
+1. **Unplugged Activities**
+
+The game about dividing a pile into two different piles ( work/party) worked well. Time constraints did not allow to spend more energy into the building of the structures. With more time, this game, can be a lot of fun and creativity.
+
+2. **Coding**
+
+We had the opportunity to start explainig how music is based on numbers with base 440Hz. Here we set the tone for this age to introduce variables and sound. Some of them could start creating their own music and adding the music to their first stories and animations. We had a lot of fun with this activity and we opened the door to the relationship between magnetism and sound - to science!. 
+
+3. **Taking the code out**
+
+We proceeded with the same way than the younger ones and made them come by batches of 2. They really enjoyed the fishing activity and now they started to understand how the microbit was programmed to detect the magnetism and affed the sound!
+
+> OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future. David and his Electrical Engineering skills were critical to accomplish all these fantastic gadgets. Thank you Kemakoo!
+
+
+
+Authors: B.Ferragut and D.Banville - June 2018
 
 © 2012 - 2018 Kids Code Jeunesse | All Right Reserved
 

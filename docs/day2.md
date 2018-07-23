@@ -135,7 +135,7 @@ We proceeded with the same way than the younger ones and made them come by batch
 > OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future.
 
 
-> Authors: B.Ferragut and D.Banville - June 2018
+Authors: B.Ferragut and D.Banville - June 2018
 
 © 2012 - 2018 Kids Code Jeunesse | All Right Reserved
 

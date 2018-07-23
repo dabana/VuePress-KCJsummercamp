@@ -95,6 +95,6 @@ The final battle is in three stages:
 
 ## 5. General Conclusions
 
-> Authors: B.Ferragut and D.Banville - June 2018
+Authors: B.Ferragut and D.Banville - June 2018
 
 © 2012 - 2018 Kids Code Jeunesse | All Right Reserved
