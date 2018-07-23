@@ -84,6 +84,10 @@ Feed back of tests with KCJ team (21-06-2018):
 + Amplify the sound
 ```
 
+## 4. Conclusions 
+
+
+
 > Authors: B.Ferragut and D.Banville - June 2018
 
 © 2012 - 2018 Kids Code Jeunesse | All Right Reserved

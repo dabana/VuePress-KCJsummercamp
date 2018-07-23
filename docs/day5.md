@@ -90,6 +90,10 @@ The final battle is in three stages:
 5. Once they open the coffin the Alarm sounds ( light detector )
 6. The winner of the round is the team that successfully brings the captain's heart back to their base. The round is a draw if the heart is successfully intercepted by the defenders or if it is dropped.
 
+## 4. Conclusions
+
+
+## 5. General Conclusions
 
 > Authors: B.Ferragut and D.Banville - June 2018
 

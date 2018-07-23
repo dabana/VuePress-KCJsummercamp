@@ -94,10 +94,9 @@ Feed back of tests with the KCJ team (18-06-2018):
 2. Decompose the danse into 2 to 3 parts, one for each syllable to keep the rythm.
 ``` 
 
-### Extra Activities
+## 4. Conclusions 
 
-1. Read Pirate Books for kiddos
-2. Paint your Pirate for Artists
+
 
 > Authors: B.Ferragut and D.Banville - June 2018
 
