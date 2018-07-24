@@ -96,40 +96,40 @@ Feed back of tests with the KCJ team (18-06-2018):
 
 ## 4. Conclusions 
 
-### Ages: 5-7
+### Young kids (age 5 to 8)
 1. **Unplugged Activities**
 
 At this age the presentations have to be really simple. Just with a round with the ball is enough to do a quick introduction. The rope game was interesting but you have to have the right width and start from really close to have success. At this age the simpler the better.
 
-The HAKA warrior dance was a success with big and small kids. This wrrior dance bonds and give energy whenever you need it. Please ask us the real moves :)
+The HAKA warrior dance was a success with big and small kids. This warrior dance bonds and give energy whenever you need it. Please ask us the real moves :)
 
 2. **Coding**
 
-We have seen that ArtBit was a better option than microbit at early age becaue of it's simplicity and faster interaction. Just the fact of seeying live what you are doing makes a big difference. We started designing very simple pixel art drawings and with an introduction to buttons and sensors like onshake.
+From our experience, using Makecode with this age group is challenging because 1) the downloading process is complexe and 2) there are to may options and the blocks are hard to understand. We have seen that ArtBit was a better option than Makecode at this early age becaue of it's simplicity and faster interaction. Just the fact of seeying live what you are doing makes a big difference. We started designing very simple pixel art drawings and with an introduction to buttons and sensors like onshake.
 
 3. **Taking the code out**
 
-The pirate I-Patch activity was perfect for this age. Because of it's simplicity and easy to adapt was well received and everybody wanted an i-patch picture with it.
+The pirate I-Patch activity was perfect for this age. Because of it's simplicity and ease to adapt, it was well received and everybody wanted an i-patch picture with it.
 
-> DIFFICULTIES: The really small kids like 5yo are simetimes learning to read and to draw. At this early age we recommend almost only offline activities. Specially we would focus on drawing and developing this first level of abstraction. Once they can draw and properly represent a shape is possible to introduce them to the Artbit.
+> DIFFICULTIES: The really small kids like 5yo are sometimes learning to read and to draw. At this early age we recommend almost only offline activities. Specially we would focus on drawing and developing this first level of abstraction. Once they can draw and properly represent a shape is possible to introduce them to the Artbit.
 
 
-### Ages: 7-12
+### Older kids (age 8 to 12)
 1. **Unplugged Activities**
 
-The passing the ball, hitting with the ball and sharing the rope in a web games were good ways to start to know eachother and break the ice.
+The passing the ball, hitting with the ball and sharing the rope in a web games were good ways to start to know each other and break the ice.
 
-The HAKA warrior dance was a success with big and small kids. This wrrior dance bonds and give energy whenever you need it. Please ask us the real moves :)
+The HAKA warrior dance was a success with big and small kids. This warrior dance bonds and give energy whenever you need it. Please ask us the real moves :)
 
 2. **Coding**
 
-The Microbit was the right choice for this age because of it's large array of possibities. At this age and knowing what an USB key is, they have much less problems to download and execute the .hex files.
+Makecode was the right choice for this age because of it's large array of possibities. At this age and knowing what an USB key is, they have much less problems to download and execute the .hex files. They also have less problems navigating the interface.
 
 3. **Taking the code out**
 
-The Pirate I-Patch activity is perfect also for this game. Within the low-floor / high-sealing philosophy it was perfect as a starting point.
+The Pirate I-Patch activity is perfect also for this age group. Within the low-floor / high-sealing philosophy it was a perfect starting point.
 
-> OBSERVATIONS: The fact that we use the MI-POWER backplate for mictobit did help a lot. This extra-unity powered with a 3V battery + ON/OFF switch + Speaker gave us a new world of possibilities and make working with the microbits much easier. We highly recommend to addapt all the Microbits with these plates when going to classes. Just the fact of having the tiny speakers doubles the practical usability of the unit for the calsses.
+> OBSERVATIONS: The fact that we use the MI-POWER backplate for mictobit did help a lot. This add-on powers the microbit with a 3V battery and provides an ON/OFF switch and a speaker. It gave us a new world of possibilities and make working with the microbits much easier. We highly recommend to addapt all the Microbits with these plates when going to classes. Just the fact of having the tiny speakers doubles the practical usability of the unit for the classes. Since we had some problems with MI-POWER backplates (battery hold break, frequent battery replacement, etc.) we recommend trying to find a different product. The Power:bit from Elecfreaks seams a very good product.
 
 
 
