@@ -117,7 +117,7 @@ This game was a total success. The fact that they were all involved in the activ
 ### Ages: 7-12
 1. **Unplugged Activities**
 
-The game about dividing a pile into two different piles ( work/party) worked well. Time constraints did not allow to spend more energy into the building of the structures. With more time, this game, can be a lot of fun and creativity.
+The game about recognizing patters in different objects worked really well, maybe with some more rules and the proper timing it could have been less chaotic, but they enjoyed it and can be used in so many situations.
 
 2. **Coding**
 
