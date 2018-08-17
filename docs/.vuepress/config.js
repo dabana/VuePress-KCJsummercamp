@@ -4,6 +4,7 @@ module.exports = {
     themeConfig: {
         nav: [
             {text: "Start", link: './'},
+            {text: 'Teaching approach', link: 'teaching.md'},
             {text: 'Day 1', link: 'day1.md'},
             {text: 'Day 2', link: 'day2.md'},
             {text: 'Day 3', link: 'day3.md'},
@@ -14,6 +15,7 @@ module.exports = {
         ],
         sidebar: [
             './',
+            ['./teaching','Teaching approach']
             ['./day1','Day 1'],
             ['./day2','Day 2'],
             ['./day3','Day 3'],
