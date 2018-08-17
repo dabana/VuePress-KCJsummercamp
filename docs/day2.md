@@ -27,33 +27,27 @@ In the center there is pile of objects to distribute in the different thematic a
 ```diff
 Feed back of tests with KCJ team (19-06-2018): 
 + Positive feedback of the activity
-+ Take into acount extra time needed to decorate with natural elements
++ Take into acount extra time needed
 ```
 
-## 2. Microbit activity
+## 2. Makecode coding session - Older kids (age 8 to 12)
 
-> Prepare the MicroBit for fishing
+Prepare the MicroBit for fishing by creating a magnetic detector
 
 ```diff
 + TODAY WE LEARN:
 1. What is magnetism? 
 2. What is an interval in time and what is pitch in sound?
-3. How are they interelated?
+3. How are they related?
 4. How a magnetic detector would work?
-5. Play with a first program to detect magetism
+5. Play with a first program to detect magnetism
 ```
 
 ### 2.1 Blocks Code
 
-#### 2.1.1 Introduction to music with Microbit (for all kids)
-
-*** PLEASE ADD THE DEMO CODE FOR THE INTRODUCTION TO MUSIC (SIMPLE INSTRUMENT microbit-music-democode.hex in ./Makecode/Final/day2)***
-
-#### 2.1.2 Fish detector code (for advanced kids)
+#### 2.1 Fish detector code (for advanced kids)
 
 ![Blocks Code](./images/Day2-blocks.png)
-
-
 
 ### 2.2 Text Code
 ```javascript
@@ -67,7 +61,7 @@ basic.forever(() => {
 })
 ```
 
-## 2b. Artbit - begginers - animations
+## 3. Artbit coding session - Young kids (age 5 to 8)
 
 ```diff
 + TODAY WE LEARN:
@@ -82,11 +76,11 @@ basic.forever(() => {
 
 
 
-## 3. It's time to go fishing
+## 4. Take the code out!
 
 > INDOORS and OUTDOORS
 
-Members of the crew program a microbit that detects magnetic fields and emit sound and light.
+It is time to go fishing. Members of the crew program a microbit that detects magnetic fields and emit sound.
 They can use it as a special fish finder to catch their dinner more efficiently. 
 
 Material:
@@ -96,17 +90,21 @@ Material:
 
 1) One Explorer is sent on the sea (blanket) with his MicroBit to find the Fish.
 2) The Fisherman is standing outside the sea (blanket) with the fishing rod.
-3) Other hold the blanket firmly to the ground
+3) Heavy items hold the blanket firmly to the ground (rocks, chairs, etc.)
 4) The goal is for the Fisherman to catch the fish with the help of the explorer
-5) A sound is generated when a fish is catch. There is a sound for the sharks and a sound for real fish. If the sound for the shark is heard, everybody has to run for safety.
-6) At first the fish are outside, after the fish are underneath and they pull the fish out
-7) Give precise instructions to find the fish over the surface.
+5) The sound has a higher pitch and a higher repetition rate as the explorer gets closer to the fish (magnet)
+6) The explorer gives precise instructions to the fisherman to catch the fish.
 
 ```diff
 Feed back of tests with KCJ team (19-06-2018): 
 + Positive feedback of the activity 
 + Introduce to give directions to locate fish as a follow up of the first exercice
 ```
+## 4. Changes to the plan
+
+Even though the fish finder code looks simple (only 4 lines of code) it is difficult to grasp for a beginner. The key to understanding how this code works is to first understand how music works with the Micro:bit. Instead of trying to create this code with the kids, we first make a simple musical instrument with Makecode to change the pitch of the sound.
+
+*** PLEASE ADD THE DEMO CODE FOR THE INTRODUCTION TO MUSIC (SIMPLE INSTRUMENT microbit-music-democode.hex in ./Makecode/Final/day2)***
 
 ## 4. Conclusions 
 

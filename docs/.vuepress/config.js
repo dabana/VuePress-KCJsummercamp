@@ -15,7 +15,7 @@ module.exports = {
         ],
         sidebar: [
             './',
-            ['./teaching','Teaching approach']
+            ['./teaching','Teaching approach'],
             ['./day1','Day 1'],
             ['./day2','Day 2'],
             ['./day3','Day 3'],
