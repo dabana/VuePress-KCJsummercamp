@@ -104,16 +104,16 @@ Feed back of tests with KCJ team (19-06-2018):
 ```
 ## 4. Changes to the plan
 
-The unplugged activity planned for this day was a variant of the architect game from RPT. We quickly realized that this gae takes a lot of time. Since it had rudundancies with other unplugged activities we had planned (the Maori dance on Day 1 and the treasure map on day 4), we decided to drop it because of time constrains. 
+The unplugged activity planned for this day was a variant of the architect game from RPT. We quickly realized that this game takes a lot of time. Since it had rudundancies with other unplugged activities we had planned (the Maori dance on Day 1 and the treasure map on day 4), we decided to drop it because of time constrains. 
 
 While kids were working on their code, a third instructor was hosting the fishing game activity outside. Kids were called in pairs to play the fishing game. One kid was finding the fish with the magnet detector and the second one was fishing. Then they changed roles. The camp provided us an helper instructor. We have put him in charge of the outdoor activities and it made our lives a lot easier. 
 
 ### Young kids (age 5 to 8)
 
-Before starting the fishing activity we had the kids play with magnets and introduced them to magnetism.
+We started the session with a calm drawing activity. We had the kids draw the fishies that will be use for our fishing game later own. After 20 to 30 minutes of drawing, we started coding with the kids and playing the fishing game in parallel. During the fishing activity we had the kids play with magnets and introduced them to magnetism. Remember that kids this age have a strong attention time span. So when they were standing up and said they were done with there code, we invited them to draw something nice to make the pirate lair look nice. They love drawing. 
 
 ### Older kids (age 8 to 12)
-Even though the fish finder code looks simple (only 4 lines of code) it is difficult to grasp for a beginner. The key to understanding how this code works is to first understand how music works with the Micro:bit. Instead of trying to create this code with the kids, we first make a simple musical instrument with Makecode to change the pitch of the sound.
+Even though the fish finder code looks simple (only 4 lines of code) it is difficult to grasp for beginners. The key to understanding how this code works is to first understand how music works with the Micro:bit. Instead of trying to create this code with the kids, we first make a simple musical instrument with Makecode to change the pitch of the sound.
 
 *** PLEASE ADD THE DEMO CODE FOR THE INTRODUCTION TO MUSIC (SIMPLE INSTRUMENT microbit-music-democode.hex in ./Makecode/Final/day2)***
 

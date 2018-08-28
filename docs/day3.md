@@ -102,17 +102,13 @@ Material:
 
 ## 4. Changes to the plan
 
-###
-
-
-
 ### Young kids (age 5 to 8)
 
-Before starting the fishing activity we had the kids play with magnets and introduced them to magnetism.
+We did not do the unplugged activity with the younger kids. As for day 2, we started with a calm drawing game instead. We had them draw treasure chests with lots of precious stuff for almost half an hour. Then we started coding. The kids used the tilt block to create a interactive animation and it worked fine. In the mean time, there was a treasure chest race going on outside with our helper instructor. When the kids were done coding, we got everyone outside and played the treasure chest race as a relay race with 4 to 5 teams of 2 kids. They had to pass the chest to the next team as fast a possible. It was a lot of fun.
 
 ### Older kids (age 8 to 12)
 
-As for the fish detector code, the coin counter code is also not straight forward to understand for a biginner. It requires a good understanding of the concept of variable and how mathematical operations can be applied to variables to create new usefull variables. For the demonstration we show a simpler version of the code which makes use of two conditionnals. All the elements are there to understand the principal of operation of the code used during the game.
+As for the fish detector code, the coin counter code is also not straight forward to understand for beginners. It requires a good understanding of the concept of variable and how mathematical operations can be applied to variables to create new usefull variables. For the demonstration we show a simpler version of the code which makes use of two conditionnals. All the elements are there to understand the principal of operation of the code used during the game.
 
 *** PLEASE ADD THE DEMO CODE FOR THE INTRODUCTION TO TILT SENSOR (microbit-gyro-absolute-drop-count.hex in ./Makecode/Final/day3)***
 
@@ -121,19 +117,15 @@ As for the fish detector code, the coin counter code is also not straight forwar
 ### Young kids (age 5 to 8)
 1. **Unplugged Activities**
 
-We end up drawing a treasure chest directly so they could enter easily to the game.
-
-OBSERVATION: Drawing plays such an important role for this age group. It prepares the minds for abstract thinking so it is easier to have them code afterward. Unplugged activities foocusing on computational thinking through drawing and arts and crafts could be a very interesting improvement for this age group.
+Drawing plays such an important role for this age group. It prepares the minds for abstract thinking so it is easier to have them code afterward. Unplugged activities foocusing on computational thinking through drawing and arts and crafts could be a very interesting improvement for this age group.
 
 2. **Coding**
 
-We tried to introduce the concept of tilt so they could understand how the game they were going to play worked. This first concept to angles and the day before to what is a magnet was leading to most of them to their first contact with science at such an early age. We introduced conditionnal statements and the tilt sensor blocks in Artbit to created a ship that was tangling from side to side as you moved the Microbit. Older kids (7 - 8 years old) were able to do it, but young kids had troubles, they continued working on their animations.
+We tried to introduce the concept of tilt so they could understand the game they were going to play. For most of them, this was there first encounter with concepts such as angles and magnetism. We introduced conditionnal statements and the tilt sensor blocks in Artbit to created a ship that was tangling from side to side as you moved the Microbit. Older kids (7 - 8 years old) were able to do it, but young kids had troubles, they continued working on their animations.
 
 3. **Taking the code out**
 
-This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finally they count how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
-
-> OBSERVATIONS: To do these activities we had to build enclosers for the Microbits that included an ON/OFF switch and an INPUT audio jack. Also we used a small sound system to amplify the sound. 
+This game was a total success. The fact that they were all involved in the activity was very important. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finally they count how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear. We used our microbit encloser and the sound system for this activity. 
 
 
 ### Older kids (age 8 to 12)
@@ -147,9 +139,7 @@ We had the opportunity to start explaining what pitch and roll are, how they can
 
 3. **Taking the code out**
 
-This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finnally they countd how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
-
-> OBSERVATIONS: To do these activities we had to build enclosers for the Microbits that included an ON/OFF switch and an INPUT audio jack. Also we used a small sound system to amplify the sound.
+This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finally they counted how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
 
 
 
