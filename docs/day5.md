@@ -8,7 +8,7 @@ It is well known that pirates like to fight just for fun.
 
 There is a lot to do to get ready for the battle. First the team has to build an unbreakable treasure chest that looks awesome and that contains the heart of their captain.
 
-## 2. Microbit activity
+## 2. Makecode coding session - Older kids (age 8 to 12)
 
 > Add technological security features to your treasure chest
 
@@ -72,11 +72,11 @@ Feed back of tests with KCJ team (22-06-2018):
 - Because we used strong magnets, microbits were affected by the strong magnetic fields!
 ```
 
-## 2b. Artbit - code for begginers
+## 3. Artbit coding session - Young kids (age 5 to 8)
 
 No Artbit activity for this day. We prepare for the Capture the Flag game by decorating our treasure chest.
 
-## 3. Final battle: capture the heart of the captain
+## 4. Take the code out!
 
 The final battle is in three stages:
 
@@ -115,7 +115,15 @@ Rules:
 
 > Kids define their own strategy on how to capture the Heart of the captain
 
-## 4. Conclusions
+## 5. Changes to the plan
+
+### Young kids (age 5 to 8)
+
+### Older kids (age 8 to 12)
+
+![Blocks Code](./images/Day5-manual-blocks.png)
+
+## 6. Conclusions
 
 ### Young kids (age 5 to 8)
 

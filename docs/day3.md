@@ -100,7 +100,7 @@ Material:
 5. At the end of the race we see on the microbit how many coins are left in the treasure chest after transport.
 6. We keep track of the score of every team to create a little competition.
 
-## 4. Changes to the plan
+## 5. Changes to the plan
 
 ### Young kids (age 5 to 8)
 
@@ -110,9 +110,9 @@ We did not do the unplugged activity with the younger kids. As for day 2, we sta
 
 As for the fish detector code, the coin counter code is also not straight forward to understand for beginners. It requires a good understanding of the concept of variable and how mathematical operations can be applied to variables to create new usefull variables. For the demonstration we show a simpler version of the code which makes use of two conditionnals. All the elements are there to understand the principal of operation of the code used during the game.
 
-*** PLEASE ADD THE DEMO CODE FOR THE INTRODUCTION TO TILT SENSOR (microbit-gyro-absolute-drop-count.hex in ./Makecode/Final/day3)***
+![Blocks Code](./images/Day3-conditional-blocks.png)
 
-## 4. Conclusions 
+## 6. Conclusions 
 
 ### Young kids (age 5 to 8)
 1. **Unplugged Activities**

@@ -72,7 +72,7 @@ basic.forever(() => {
 
 ![ArtBit Code](./images/ArtBit/Day4.jpg)
 
-## 3. The treasure detector
+## 4. Take the code out!
 
 The crew programs their microbit to send radio signals of various strenghts so their microbit can be used as a range finder. With the help of their map and their special treasure detector, they can now hunt down the treasure.
 
@@ -86,7 +86,7 @@ Feed back of tests with KCJ team (21-06-2018):
 + Option of giving many Microbits with different sounds could be confusing.
 + Amplify the sound
 ```
-## 4. Changes to the plan
+## 5. Changes to the plan
 
 ### Young kids (age 5 to 8)
 
@@ -96,9 +96,9 @@ We did not do the unplugged activity with the younger kids. Instead, we showed t
 
 We decided to introduce th concept of radio with a totaly different activity than originaly planned. In this activity, the kids create a collective work using the radio to pass message from one microbit to the next. They have to make up a story or a song of their choice as a team. Everyone has to have to right code for collective artwork to work. It is a very interesting activity to develop taem work and see leaders emerge.
 
-*** PLEASE ADD THE DEMO CODE FOR THE INTRODUCTION TO RADIO (microbit-radio-colletive.hex in ./Makecode/Final/day4)***
+![Blocks Code](./images/Day4-collective-blocks.png)
 
-## 4. Conclusions 
+## 6. Conclusions 
 
 ### Young kids (age 5 to 8)
 1. **Unplugged Activities**

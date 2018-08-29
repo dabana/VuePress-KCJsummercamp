@@ -102,7 +102,7 @@ Feed back of tests with KCJ team (19-06-2018):
 + Positive feedback of the activity 
 + Introduce to give directions to locate fish as a follow up of the first exercice
 ```
-## 4. Changes to the plan
+## 5. Changes to the plan
 
 The unplugged activity planned for this day was a variant of the architect game from RPT. We quickly realized that this game takes a lot of time. Since it had rudundancies with other unplugged activities we had planned (the Maori dance on Day 1 and the treasure map on day 4), we decided to drop it because of time constrains. 
 
@@ -115,9 +115,9 @@ We started the session with a calm drawing activity. We had the kids draw the fi
 ### Older kids (age 8 to 12)
 Even though the fish finder code looks simple (only 4 lines of code) it is difficult to grasp for beginners. The key to understanding how this code works is to first understand how music works with the Micro:bit. Instead of trying to create this code with the kids, we first make a simple musical instrument with Makecode to change the pitch of the sound.
 
-*** PLEASE ADD THE DEMO CODE FOR THE INTRODUCTION TO MUSIC (SIMPLE INSTRUMENT microbit-music-democode.hex in ./Makecode/Final/day2)***
+![Blocks Code](./images/Day2-music-blocks.png)
 
-## 4. Conclusions 
+## 6. Conclusions 
 
 ### Young kids (age 5 to 8)
 1. **Unplugged Activities**
