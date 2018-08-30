@@ -32,7 +32,7 @@ Feed back of tests with KCJ team (19-06-2018):
 
 ## 2. Makecode coding session - Older kids (age 8 to 12)
 
-Prepare the MicroBit for fishing by creating a magnetic detector. See the Take Code Out section for details of the activity.
+### The magnetic fish finder
 
 ```diff
 + TODAY WE LEARN:
@@ -43,9 +43,9 @@ Prepare the MicroBit for fishing by creating a magnetic detector. See the Take C
 5. Play with a first program to detect magnetism
 ```
 
-### 2.1 Blocks Code
+Prepare the MicroBit for fishing by creating a magnetic detector. See the Take Code Out section for details of the activity.
 
-#### 2.1 Fish detector code
+### 2.1 Blocks Code
 
 ![Blocks Code](./images/Day2-blocks.png)
 
@@ -70,13 +70,15 @@ basic.forever(() => {
 3. Play with a simple Microbit first **animation**
 ```
 
-1. Create their own Fishing animation in Artbit 
+Kids create their own fishing animation in Artbit.
 
 ![ArtBit Code](./images/ArtBit/Day2.png)
 
 
 
 ## 4. Take the code out!
+
+### The fishing game
 
 > INDOORS and OUTDOORS
 
@@ -86,7 +88,8 @@ They can use it as a special fish finder to catch their dinner more efficiently.
 Material:
 * A blanket to act as the see surface
 * Cardboard fishies with magnets attached to them
-* Fishing poles with a magnet attached to the string 
+* Fishing poles with a magnet attached to the string
+* Portable speaker and microbit audio-jack encloser 
 
 1) One Explorer is sent on the sea (blanket) with his MicroBit to find the Fish.
 2) The Fisherman is standing outside the sea (blanket) with the fishing rod.

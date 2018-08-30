@@ -6,6 +6,8 @@ A pirate has to understand what value means and how to preserve it.
 
 ### Find precious goods (inspired by RTP Secret Mission)
 
+> INDOOR or OUTDOOR
+
 The captain asks the crew to bring back precious goods but does not tell exactly what he is looking for.
 
 He rejects or accepts objects based on a certain pattern the crew members have to discover.
@@ -27,7 +29,7 @@ Feed back of tests with KCJ team (20-06-2018):
 
 ## 2. Makecode coding session - Older kids (age 8 to 12)
 
-Prepare the MicroBit for tilt detection based on the roll signal. We have 1000 coins at the begging. The more we tilt, the more coins we loose because the time interval between each coin drop is inversly proportionnal to the tilt signal. We can see how many coins are left in the coffin after the race.
+### The treasure tilt detector
 
 ```diff
 + TODAY WE LEARN:
@@ -38,6 +40,8 @@ Prepare the MicroBit for tilt detection based on the roll signal. We have 1000 c
 5. How can we create a coins counter?
 6. Play with the tilt programs and see how affects the sound.
 ```
+
+Prepare the MicroBit for tilt detection based on the roll signal. We have 1000 coins at the begging. The more we tilt, the more coins we loose because the time interval between each coin drop is inversly proportionnal to the tilt signal. We can see how many coins are left in the coffin after the race.
 
 ### 2.1 Blocks Code
 
@@ -81,17 +85,17 @@ basic.forever(() => {
 
 ## 4. Take the code out!
 
+### The treasure handling race
+
 > OUTDOORS
-
-
 
 Items in a treasure are often very fragile. The microbit program detects if the treasure has been miss-handled by counting how many coins are left after transport using the gyroscope readings. The kids pratice extreme treasure handling in an obstacle course.
 
 Material:
 * A wood or plastic crate
 * A microbit enclosure
-* A speaker and an audio jack
 * Some sturdy tape
+* Portable speaker and microbit audio-jack encloser 
 
 1. We load the progam that counts the number of coins into the microbit. 
 2. The program emits a coin drop sound so we need to plug the microbit to a speaker so everyone can hear.

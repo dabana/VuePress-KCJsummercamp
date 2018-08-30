@@ -26,8 +26,6 @@ Feed back of tests with KCJ team (18-06-2018):
 
 ### The iPatch: an electronic eye patch for cool pirates
 
-> mainly INDOORS or OUTDOORS in shaded area
-
 ```diff
 + TODAY WE LEARN:
 1. What is a Microbit? 
@@ -46,6 +44,7 @@ Feed back of tests with KCJ team (18-06-2018):
 
 ### 2.1 Blocks Code
 ![Blocks Code](./images/Day1-blocks.png)
+
 ### 2.2 Text Code
 ```javascript
 input.onGesture(Gesture.Shake, () => {
@@ -77,6 +76,8 @@ basic.showIcon(IconNames.Square)
 ## 4. Take the code out!
 
 ### Pirate photo shoot session with our I-Patch
+
+> INDOORS or OUTDOORS in shaded area
 
 There is no Microbit game planned for this day. We simply take pictures to show off our Ipatch to our friends and parents.
 
