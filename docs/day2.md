@@ -44,7 +44,17 @@ Feed back of tests with KCJ team (19-06-2018):
 ```
 
 ### 2.1 Blocks Code
+
+#### 2.1.1 Introduction to music with Microbit (for all kids)
+
+*** PLEASE ADD THE DEMO CODE FOR THE INTRODUCTION TO MUSIC (SIMPLE INSTRUMENT microbit-music-democode.hex in ./Makecode/Final/day2)***
+
+#### 2.1.2 Fish detector code (for advanced kids)
+
 ![Blocks Code](./images/Day2-blocks.png)
+
+
+
 ### 2.2 Text Code
 ```javascript
 let Note2 = 0
@@ -69,6 +79,7 @@ basic.forever(() => {
 1. Create their own Fishing animation in Artbit 
 
 ![ArtBit Code](./images/ArtBit/Day2.png)
+
 
 
 ## 3. It's time to go fishing
@@ -99,40 +110,44 @@ Feed back of tests with KCJ team (19-06-2018):
 
 ## 4. Conclusions 
 
-### Ages: 5-7
+### Young kids (age 5 to 8)
 1. **Unplugged Activities**
 
-The game about dividing a pile into two different piles ( work/party) worked well. Time constraints did not allow to spend more energy into the building of the structures. They started drawing different sorts of fish that were later used for the fishing activity.
+The game consisting of dividing a pile into two different piles (work/party) worked well for younger kids. Time constraints did not allow to spend more energy into the building of the structures. We decided to focus a lot more on drawing with this age group. They started drawing different sorts of fish that were later used for the fishing activity.
 
 2. **Coding**
 
-With ArtBit we designed a simple story. A simple ship shape that is bombed and sinked. This simple secuential animation opened the eyes to the possibility of telling stories or to make simple animations. Ideally we noted that to really have real power telling stories the artbit should change or add some individual timelines for each of the functions. The Process with small kids was: 
+The activity for this day was for the kids to designed a simple story with ArtBit. The exemple we showed them was a pirate ship being bombed and sinked. This simple secuential animation opened the eyes to the possibility of telling stories or to make simple animations. The Process with small kids was: 
 
-- Start deawing the idea ( ex: a ship )
+- Start drawing the idea ( ex: a ship )
 - Tell a story with that idea ( ship animation )
 - Give them freedom to add their own personality
 
+We noted that telling stories using the scrolling up, down, left, right options on the Artbit was not straight forward at all, even for us, the instructors. Additionnal options should be added to the Artbit user interface to improve this (ex.: individual timelines for each of the functions).
+
 3. **Taking the code out**
 
-At the same time they were creating their animations. A second and third person were preparing the fishing game. They wer called in pairs and one was selecting the fish with the magnet detector and the second one was fishing. Then they changed roles. 
+While kids were creating their animations, a third instructor was hosting the fishing game activity outside. Kids were called in pairs to play the fishing game. One kid was finding the fish with the magnet detector and the second one was fishing. Then they changed roles. The camp provided us an helper instructor. We have put him in charge of the outdoor activities and it made our lives a lot easier. Before starting the fishing activity we had the kids play with magnets and introduced them to magnetism.
 
-> DIFFICULTIES: It was important to be opened to change plans fast because they tend to have a really short span of attention. The fishing game was and it's a great idea but in small batches. Make then play in turns gave us more control to the overall operation.
+> DIFFICULTIES: It is important to be open to change plans fast because kids this age tend to have a really short span of attention. On average kids can stay a maximum of 45 minutes at the computer working on their story, after 30 minutes we already see kids go up and start to play. The fishing game was a great idea with in small batches. Having them play in turns gave us more control to the overall operation and contributed to increase to duration of the coding activity (roughly an hour).
 
 
-### Ages: 7-12
+### Older kids (age 8 to 12)
 1. **Unplugged Activities**
 
-The game about dividing a pile into two different piles ( work/party) worked well. Time constraints did not allow to spend more energy into the building of the structures. With more time, this game, can be a lot of fun and creativity.
+The game about dividing a pile into two different piles (work/party) worked well. Time constraints did not allow to spend more energy into the building of the structures. With more time, this game, can be a lot of fun and creativity. We decided do drop this unplugged activity to have more time explaning music with the Microbit.
 
 2. **Coding**
 
-We had the opportunity to start explainig how music is based on numbers with base 440Hz. Here we set the tone for this age to introduce variables and sound. Some of them could start creating their own music and adding the music to their first stories and animations. We had a lor of fun with this acticity and we opened the door rhe relationship between magnetima and sound - to science. 
+We had the opportunity to dive into the details of how do to music with the microbit. We explained them how music is based on numbers which represent the frequency of the sound, i.e. the number of vibrations per second (with base 440Hz being the reference for musicians). The first activity was to create a simple musical instrument using the buttons on the microbit to change the tone of the sound. Through this activity we also introduce variables. Withmore advanced kids we have been able to introduce the magnetism sensor and have them understand how to fish detector works.
+
+Some of them started creating their own music and adding them to their stories and animations. We had a lot of fun with this acticity which really confirmed that the sound is an essential part of the microbit experience.
 
 3. **Taking the code out**
 
-We proceeded with the same way than the younger ones and made them come by batches of 2. They really enjoyed the fishing activity and now they started to understand how the microbit was programmed to detect the magnetism and affed the sound!
+We proceeded with the same way with older kids than with younger kids and had them come to the fishing activity by batches grouyps of 2. They really enjoyed the fishing activity and now they started to understand how the microbit was programmed to detect the magnetism and produce a sound proportionnal to the signal!
 
-> OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future.
+> OBSERVATIONS: To do these activities we had to build enclosers for the Microbits that included an ON/OFF switch and an INPUT audio jack. Also we used a small sound system to amplify the sound. Sound became so important in the activities that we really encourage to boost up this feature. It would be especially important to add sound features to Artbit in the near future to be able to introduce sound to the younger audience.
 
 
 Authors: B.Ferragut and D.Banville - June 2018

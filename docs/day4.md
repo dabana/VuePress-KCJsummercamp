@@ -1,6 +1,6 @@
 # DAY 4: The treasure hunt
 
-With the help of technology and an old amnesiac pirate, the crew finds Barbe Bleu's treasure before he does.
+With the help of technology and an old amnesiac pirate, the crew finds the treasure and the key to open it.
 
 ## 1. Introductory unplugged activity
 
@@ -19,19 +19,31 @@ Feed back of tests with KCJ team (21-06-2018):
 
 ## 2. Microbit activity 
 
-> One MicroBit with radio to find the are where the treasure is found - General
+
 
 ```diff
 + TODAY WE LEARN:
-1. What is a radio frequency?
-2. How can we relate radio and sound?
-3. What is a conditional in code?
-4. What is a variable in code?
-5. Play with the radio program and see how affects the sound.
+1. What is a radio frequency/group/channel?
+2. What is a variable in code?
+3. Work as a team to achieve a collective goal
 ```
 
 ### 2.1 Blocks Code
+
+#### 2.1.1
+
+In this activity kids creat a collective work using the radio to pass message from one microbit to the next. They have to make up a story or a song of their choice as a team. Everyone has to have to right code for collective artwork to work.
+
+*** PLEASE ADD THE DEMO CODE FOR THE INTRODUCTION TO RADIO (microbit-radio-colletive.hex in ./Makecode/Final/day4)***
+
+#### 2.1.2 The treasure detector
+
+> One MicroBit with radio to find the are where the treasure is found - General.
+
+This code is very similar to the one for the fish finder in day 2.
+
 ![Blocks Code](./images/Day4-blocks.png)
+
 ### 2.2 Text Code
 > Emitter
 ```javascript
@@ -86,10 +98,10 @@ Feed back of tests with KCJ team (21-06-2018):
 
 ## 4. Conclusions 
 
-### Ages: 5-7
+### Young kids (age 5 to 8)
 1. **Unplugged Activities**
 
-We introduced kids to what is a map and its symbols. The idea idea was that they start to understand what a map is, how is an abstraction of the reality from the top view and how easy is to identify objects on it. The results were fun and interesting.
+We introduced kids to what is a map and its symbols. The idea was that they start to understand what a map is, how it is an abstraction of the reality from the top view and how easy it is to identify objects on it. The results were fun and interesting.
 
 2. **Coding**
 
@@ -97,28 +109,24 @@ They continued with their animations. With the first batch of kids that used mic
 
 3. **Taking the code out**
 
-This game worked really well. This time we were calling them first one group and when finished the second one to mantain everyody busy. The little kids they loved to go out with the beeping microbit in search of the treasure. The kids had to find a KEY and a SKULL representing the treasure to have success. With a little help and the detectors they very well accomplished it!.
+This game worked really well. This time we created two groups of about 7 kids. We gave them a microbit each and challenged them to find the treasure. We first made a demo of how to detector works by making them listen to changing sound of the microbit as the instructor gets closer with the emitter. The instructor then hides the emitter. The little kids loved to go out with the beeping microbit in search of the treasure. The kids had to find a KEY and a SKULL representing the treasure to have success. With a little help and the detectors they very well accomplished it!. Once the tresure was found, we proceeded to the distribution of the treasure (plastics gems and golden coins).
 
-Once the tresure was found we observed that the sharing of coins gave some behaviour issues. Gladly we found that kids are good at sharing when thing are well explained.
+> OBSERVATIONS: 
 
-> OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future. David and his Electrical Engineering skills were critical to accomplish all these fantastic gadgets. 
-
-### Ages: 7-12
+### Older kids (age 8 to 12)
 1. **Unplugged Activities**
 
 The memory game was a success. Both teams had fun memorizing the map and localizing the treasure. This is a game that we recommend alongside with the architect and the secret object as unplugged activities.
 
 2. **Coding**
 
-In this class we opened the class to experimentation in radio communication. We teach them the basics about how to sens a message and after that we designate some 'leaders' in the class to create a series of images and sounds along all the microbits through sending messages in different channels. We enjoyed the game a lot, we would just recommend to choose the 'right' leaders and maybe create a very well defined objective so they have to take less decissions and keep focus on the activity.
+In this class we opened the class to experimentation in radio communication. We teach them the basics about how to send a message and after that we designate some 'leaders' in the class to help create a series of images and sounds along all the microbits through sending messages in different channels. We enjoyed the game a lot, we would just recommend to choose the 'right' leaders and maybe create a very well defined objective so they have to take less decisions and keep focus on the activity. Giving the kids responsability was a great idea. From that point on they were on their own and they had to cooperate all together to accomplish the objectives. We observed very interesting dynamics. We found that with a little structure, it is possible to give the kids power and responsability on the problem solving process.
 
 3. **Taking the code out**
 
-This game worked well. 
+The treasure hunt was a success with this gae group too. We made the reserach a little more challenging for them.
 
-The fact of giving them the responsability was a great idea. From that point on they were on their own and they had to cooperate all together to accomplish the objectives. Very interesting dynamics and gave us the teaching of giving as soon as posible to the kids power and responsability on the problem solving process.
-
-> OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future. David and his Electrical Engineering skills were critical to accomplish all these fantastic gadgets. Thank you Kemakoo!
+> OBSERVATIONS: 
 
 
 

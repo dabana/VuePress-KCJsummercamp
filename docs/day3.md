@@ -42,7 +42,20 @@ We have 1000 coins and each time we tilt too much we lose either 1 or 10 coins. 
 ```
 
 ### 2.1 Blocks Code
+
+#### 2.1.1 Introduction to tilt sensor with conditionnals
+
+Step 1: Make different sounds depending on the tilt
+
+*** PLEASE ADD THE DEMO CODE FOR THE INTRODUCTION TO TILT SENSOR (microbit-gyro-absolute-drop-count.hex in ./Makecode/Final/day3)***
+
+#### 2.1.2 Countinous dropped coins counter
+
+The code used for the game is a continous version of the code show as an introduction. It makes the interval between coin drops proportionnal to 
+
 ![Blocks Code](./images/Day3-blocks.png)
+
+
 ### 2.2 Text Code
 ```javascript
 let intervale = 0
@@ -98,36 +111,38 @@ Feed back of tests with KCJ team (20-06-2018):
 
 ## 4. Conclusions 
 
-### Ages: 5-7
+### Young kids (age 5 to 8)
 1. **Unplugged Activities**
 
-We end up drawing a treasure chest directly so they could enter easily to the game. 
+We end up drawing a treasure chest directly so they could enter easily to the game.
+
+OBSERVATION: Drawing plays such an important role for this age group. It prepares the minds for abstract thinking so it is easier to have them code afterward. Unplugged activities foocusing on computational thinking through drawing and arts and crafts could be a very interesting improvement for this age group.
 
 2. **Coding**
 
-They continued with their animations but we tried to introduce the concept of tilt so they could understand how the game they were going to play worked. This first concept to angles and the day before to what is a magnet was leading to most of them to their first contact with science at such an early age.
+We tried to introduce the concept of tilt so they could understand how the game they were going to play worked. This first concept to angles and the day before to what is a magnet was leading to most of them to their first contact with science at such an early age. We introduced conditionnal statements and the tilt sensor blocks in Artbit to created a ship that was tangling from side to side as you moved the Microbit. Older kids (7 - 8 years old) were able to do it, but young kids had troubles, they continued working on their animations.
+
+3. **Taking the code out**
+
+This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finally they count how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
+
+> OBSERVATIONS: To do these activities we had to build enclosers for the Microbits that included an ON/OFF switch and an INPUT audio jack. Also we used a small sound system to amplify the sound. 
+
+
+### Older kids (age 8 to 12)
+1. **Unplugged Activities**
+
+The pattern recognition game worked well with the older kids to get the day starting. It was fun. The game lasted about 15 to 20 minutes.
+
+2. **Coding**
+
+We had the opportunity to start explaining what pitch and roll are, how they can be detected through the internal gyroscope of the microbit. We used to tilt to create different sounds depending on the tilt angle. It was a very fun class where they used variables, conditionals and some physics. A great combo!
 
 3. **Taking the code out**
 
 This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finnally they countd how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
 
-> OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future. David and his Electrical Engineering skills were critical to accomplish all these fantastic gadgets. Thank you Kemakoo!
-
-
-### Ages: 7-12
-1. **Unplugged Activities**
-
-The game about recognizing patters in different objects worked really well, maybe with some more rules and the proper timing it could have been less chaotic, but they enjoyed it and can be used in so many situations.
-
-2. **Coding**
-
-We had the opportunity to start explainig what pitch and roll are. how they can be detected through the internal gyroscope the microbit has and how can affect the sound we had been playing the day before. It was a very fun class where they used variables, conditionals and some physics. A great combo!
-
-3. **Taking the code out**
-
-This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finnally they countd how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
-
-> OBSERVATIONS: To do these activities we had to build special cases for the Microbits that allow us to control them with a switch ON/OFF and an INPUT Jack. Also we used a small sound system to amplify the effect of the sound. Sound became so imortant in the activities that we really encourage to boost up this feature specially with Artbit in the near future. David and his Electrical Engineering skills were critical to accomplish all these fantastic gadgets. Thank you Kemakoo!
+> OBSERVATIONS: To do these activities we had to build enclosers for the Microbits that included an ON/OFF switch and an INPUT audio jack. Also we used a small sound system to amplify the sound.
 
 
 
