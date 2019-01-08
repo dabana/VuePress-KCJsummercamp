@@ -6,15 +6,17 @@ A pirate has to understand what value means and how to preserve it.
 
 ### Find precious goods (inspired by RTP Secret Mission)
 
+> INDOOR or OUTDOOR
+
 The captain asks the crew to bring back precious goods but does not tell exactly what he is looking for.
 
 He rejects or accepts objects based on a certain pattern the crew members have to discover.
 
 Examples of pattern: 
-- Things of red / blue
-- Things of wood /  metal / rocks
-- Things light / heavyig, big / small
-- Worked by men or not, artificial / natural
+- Things that are red / blue
+- Things made of wood /  metal / rocks
+- Things that are light / heavy, big / small
+- Things worked by men or not, artificial / natural
 
 > Create a small competition: The first who finds the Pattern wins Points
 
@@ -25,15 +27,13 @@ Feed back of tests with KCJ team (20-06-2018):
 + Create a special place where old pirates deliver final decisions
 ```
 
-## 2. Microbit activity
+## 2. Makecode coding session - Older kids (age 8 to 12)
 
-> Prepare the MicroBit for tilt detection based on the roll signal
-
-We have 1000 coins and each time we tilt too much we lose either 1 or 10 coins. See how many coins are left in the coffin once the race end!
+### The treasure tilt detector
 
 ```diff
 + TODAY WE LEARN:
-1. What is tilt? ( angles ) 
+1. What is tilt? (angles, pitch, roll) 
 2. How can we relate tilt and sound?
 3. What is a conditional in code?
 4. What is a variable in code?
@@ -41,17 +41,9 @@ We have 1000 coins and each time we tilt too much we lose either 1 or 10 coins. 
 6. Play with the tilt programs and see how affects the sound.
 ```
 
+Prepare the MicroBit for tilt detection based on the roll signal. We have 1000 coins at the begging. The more we tilt, the more coins we loose because the time interval between each coin drop is inversly proportionnal to the tilt signal. We can see how many coins are left in the coffin after the race.
+
 ### 2.1 Blocks Code
-
-#### 2.1.1 Introduction to tilt sensor with conditionnals
-
-Step 1: Make different sounds depending on the tilt
-
-*** PLEASE ADD THE DEMO CODE FOR THE INTRODUCTION TO TILT SENSOR (microbit-gyro-absolute-drop-count.hex in ./Makecode/Final/day3)***
-
-#### 2.1.2 Countinous dropped coins counter
-
-The code used for the game is a continous version of the code show as an introduction. It makes the interval between coin drops proportionnal to 
 
 ![Blocks Code](./images/Day3-blocks.png)
 
@@ -79,54 +71,65 @@ basic.forever(() => {
 })
 ```
 
-## 2b. Artbit - begginers - tilt sensor
+## 3. Artbit coding session - Young kids (age 5 to 8)
 
 ```diff
 + TODAY WE LEARN:
-1. What is tilt? ( angles )
+1. What is tilt? (angles)
 2. How can we relate tilt and an image?
 3. Play with the tilt program and see how affects the pixel art image.
 ```
 
-1. Create their own Tilt animation in Artbit. 
-
 ![ArtBit Code](./images/ArtBit/Day3.png)
 
 
-## 3. Proper treasure handling
+## 4. Take the code out!
 
-Items in a treasure are often very fragile. The crew members have to write a microbit program to detect if a treasure item has been miss-handled using the gyroscope readings. They pratice extreme treasure handling in a obstacle course.
+### The treasure handling race
 
-1. We create 1 progam that controls the sound interval and number of coins based on tilt.
-2. The Sound program emits two different sounds to tell how extreme your tilt is
-3. A great and difficult obstacle race is created where the participants have to 
-move, jump, go up and down at a good speed until reach the end.
-4. At the end of the race we see which participants conserve more coins in a linited amount of time.
+> OUTDOORS
 
-```diff
-Feed back of tests with KCJ team (20-06-2018): 
-- We originally coded with separation of concerns. We saw that the code had to be unified.
-+ Now it's such a beautiful unified piece of code!
-```
+Items in a treasure are often very fragile. The microbit program detects if the treasure has been miss-handled by counting how many coins are left after transport using the gyroscope readings. The kids pratice extreme treasure handling in an obstacle course.
 
-## 4. Conclusions 
+Material:
+* A wood or plastic crate
+* A microbit enclosure
+* Some sturdy tape
+* Portable speaker and microbit audio-jack encloser 
+
+1. We load the progam that counts the number of coins into the microbit. 
+2. The program emits a coin drop sound so we need to plug the microbit to a speaker so everyone can hear.
+3. We firmly tape the microbit enclosure and the speaker inside a crate which will act as our treasure chest.
+4. Kids will be in teams of two to transport the crate across a great and difficult obstacle race.
+5. At the end of the race we see on the microbit how many coins are left in the treasure chest after transport.
+6. We keep track of the score of every team to create a little competition.
+
+## 5. Changes to the plan
+
+### Young kids (age 5 to 8)
+
+We did not do the unplugged activity with the younger kids. As for day 2, we started with a calm drawing game instead. We had them draw treasure chests with lots of precious stuff for almost half an hour. Then we started coding. The kids used the tilt block to create a interactive animation and it worked fine. In the mean time, there was a treasure chest race going on outside with our helper instructor. When the kids were done coding, we got everyone outside and played the treasure chest race as a relay race with 4 to 5 teams of 2 kids. They had to pass the chest to the next team as fast a possible. It was a lot of fun.
+
+### Older kids (age 8 to 12)
+
+As for the fish detector code, the coin counter code is also not straight forward to understand for beginners. It requires a good understanding of the concept of variable and how mathematical operations can be applied to variables to create new usefull variables. For the demonstration we show a simpler version of the code which makes use of two conditionnals. All the elements are there to understand the principal of operation of the code used during the game.
+
+![Blocks Code](./images/Day3-conditional-blocks.png)
+
+## 6. Conclusions 
 
 ### Young kids (age 5 to 8)
 1. **Unplugged Activities**
 
-We end up drawing a treasure chest directly so they could enter easily to the game.
-
-OBSERVATION: Drawing plays such an important role for this age group. It prepares the minds for abstract thinking so it is easier to have them code afterward. Unplugged activities foocusing on computational thinking through drawing and arts and crafts could be a very interesting improvement for this age group.
+Drawing plays such an important role for this age group. It prepares the minds for abstract thinking so it is easier to have them code afterward. Unplugged activities foocusing on computational thinking through drawing and arts and crafts could be a very interesting improvement for this age group.
 
 2. **Coding**
 
-We tried to introduce the concept of tilt so they could understand how the game they were going to play worked. This first concept to angles and the day before to what is a magnet was leading to most of them to their first contact with science at such an early age. We introduced conditionnal statements and the tilt sensor blocks in Artbit to created a ship that was tangling from side to side as you moved the Microbit. Older kids (7 - 8 years old) were able to do it, but young kids had troubles, they continued working on their animations.
+We tried to introduce the concept of tilt so they could understand the game they were going to play. For most of them, this was there first encounter with concepts such as angles and magnetism. We introduced conditionnal statements and the tilt sensor blocks in Artbit to created a ship that was tangling from side to side as you moved the Microbit. Older kids (7 - 8 years old) were able to do it, but young kids had troubles, they continued working on their animations.
 
 3. **Taking the code out**
 
-This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finally they count how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
-
-> OBSERVATIONS: To do these activities we had to build enclosers for the Microbits that included an ON/OFF switch and an INPUT audio jack. Also we used a small sound system to amplify the sound. 
+This game was a total success. The fact that they were all involved in the activity was very important. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finally they count how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear. We used our microbit encloser and the sound system for this activity. 
 
 
 ### Older kids (age 8 to 12)
@@ -140,9 +143,7 @@ We had the opportunity to start explaining what pitch and roll are, how they can
 
 3. **Taking the code out**
 
-This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finnally they countd how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
-
-> OBSERVATIONS: To do these activities we had to build enclosers for the Microbits that included an ON/OFF switch and an INPUT audio jack. Also we used a small sound system to amplify the sound.
+This game was a total success. The fact that they were all involved in the activity was very inportant. We ended up subdividing each of the teams in different pairs. They had to run with the treasure chest and pass the chest from couple to couple until they reached the end. Finally they counted how much coins were left in the chest. Thanks to the sturdy chests we built the microbits could survive to such level of stress. This was a real bootcamp for the whole gear.
 
 
 

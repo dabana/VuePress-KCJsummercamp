@@ -6,13 +6,11 @@ It is well known that pirates like to fight just for fun.
 
 ### Build an unbreakable treasure chest
 
-There is a lot to do to get ready for the battle. First the team has to build an unbreakable treasure chest that looks awesome and that contains the heart of their captain.
+There is a lot to do to get ready for the final battle. First the team has to build an unbreakable treasure chest that looks awesome and that contains the heart of their captain.
 
-## 2. Microbit activity
+## 2. Makecode coding session - Older kids (age 8 to 12)
 
-> Add technological security features to your treasure chest
-
-The treasure chest can be opened only if every team member puts in his/her coin. The chest is also equiped with an alarm system that warns the team if it has been opened. The team has to write two different microbit programs to achieve these functionnality. They will work in teams of two to achieve this goal by them selves.
+### The treasure chest alarm system
 
 ```diff
 + TODAY WE LEARN:
@@ -22,12 +20,17 @@ The treasure chest can be opened only if every team member puts in his/her coin.
 4. Use the radio to send an alarm message
 ```
 
+> Add technological security features to your treasure chest
+
+The treasure chest can be opened only if every team member puts in his/her coin. The chest is also equiped with an alarm system that warns the team if it has been opened. The team has to write two different microbit programs to achieve these functionnality. They will work in teams of two to achieve this goal by them selves.
+
 > There are two microbits to program:
 1. A coin counter for opening the chest. Press a increments the counter by one, pressing B decrements de counter by 1 and pressing A+B resets the counter. When counter is greater then 7, a message is sent by radio to the alarm.
 2. A microbit that produces an alarm sound when it receives a message.
 
 ### 2.1 Blocks Code
-![Blocks Code](./images/Day5-blocks.png)
+![Blocks Code](./images/Day5-manual-blocks.png)
+
 ### 2.2 Text Code
 > Emitter
 ```javascript
@@ -44,10 +47,6 @@ input.onButtonPressed(Button.B, () => {
 coins = 0
 radio.setGroup(1)
 basic.forever(() => {
-    if (input.magneticForce(Dimension.Strength) > 400) {
-        basic.pause(500)
-        coins += 1
-    }
     basic.showNumber(coins)
     if (coins >= 7) {
         radio.sendNumber(0)
@@ -72,11 +71,11 @@ Feed back of tests with KCJ team (22-06-2018):
 - Because we used strong magnets, microbits were affected by the strong magnetic fields!
 ```
 
-## 2b. Artbit - code for begginers
+## 3. Artbit coding session - Young kids (age 5 to 8)
 
 No Artbit activity for this day. We prepare for the Capture the Flag game by decorating our treasure chest.
 
-## 3. Final battle: capture the heart of the captain
+## 4. Take the code out!
 
 The final battle is in three stages:
 
@@ -115,7 +114,15 @@ Rules:
 
 > Kids define their own strategy on how to capture the Heart of the captain
 
-## 4. Conclusions
+## 5. Changes to the plan
+
+### Young kids (age 5 to 8)
+
+### Older kids (age 8 to 12)
+
+
+
+## 6. Conclusions
 
 ### Young kids (age 5 to 8)
 
